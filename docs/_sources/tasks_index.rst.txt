@@ -5,5 +5,4 @@ Task Library
    :maxdepth: 1
    :caption: Tasks
 
-   Tasks/SST
-   Tasks/REST
+   Tasks/SST_index
