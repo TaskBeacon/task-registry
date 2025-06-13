@@ -8,7 +8,12 @@ Welcome to task_index's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Tasks
+
+   task1
+   task2
+   task3
+   task4
 
 
 
