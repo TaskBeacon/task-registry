@@ -1,4 +1,9 @@
 Task Library
 ============
 
-.. include:: tasks_index.rst
+.. toctree::
+   :maxdepth: 1
+   :caption: Tasks
+
+   Tasks/SST
+   Tasks/REST

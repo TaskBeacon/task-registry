@@ -5,11 +5,7 @@ Welcome to the Task Index! This site provides an organized index of available co
 
 Tasks
 =====
+.. include:: tasks_index.rst
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Tasks
-
-   Tasks/task1
 
 
