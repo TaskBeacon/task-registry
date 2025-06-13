@@ -3,10 +3,10 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
-<link rel="index" title="Index" href="../../genindex.html" /><link rel="search" title="Search" href="../../search.html" /><link rel="prev" title="Stop-Signal Task (SST) – audio Version" href="SST-audio.html" />
+<link rel="index" title="Index" href="../../genindex.html" /><link rel="search" title="Search" href="../../search.html" /><link rel="next" title="SST variants" href="../SST_index.html" /><link rel="prev" title="EmoDot variants" href="../EmoDot_index.html" />
 
     <!-- Generated with Sphinx 7.3.7 and Furo 2024.08.06 -->
-        <title>Stop-Signal Task (SST) – PsyFlow Version - Tasks 1 documentation</title>
+        <title>Emotional Dot-Probe Task – PsyFlow Version - Tasks 1 documentation</title>
       <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=8f2a1f02" />
     <link rel="stylesheet" type="text/css" href="../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../_static/styles/furo-extensions.css?v=302659d7" />
@@ -200,20 +200,20 @@
 <div id="searchbox"></div><div class="sidebar-tree">
   <p class="caption" role="heading"><span class="caption-text">Tasks</span></p>
 <ul class="current">
-<li class="toctree-l1 has-children"><a class="reference internal" href="../EmoDot_index.html">EmoDot variants</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of EmoDot variants</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="../EmoDot/main.html">Emotional Dot-Probe Task – PsyFlow Version</a></li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../EmoDot_index.html">EmoDot variants</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle navigation of EmoDot variants</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">Emotional Dot-Probe Task – PsyFlow Version</a></li>
 </ul>
 </li>
-<li class="toctree-l1 current has-children"><a class="reference internal" href="../SST_index.html">SST variants</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle navigation of SST variants</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
-<li class="toctree-l2"><a class="reference internal" href="SST-audio.html">Stop-Signal Task (SST) – audio Version</a></li>
-<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">Stop-Signal Task (SST) – PsyFlow Version</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../SST_index.html">SST variants</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle navigation of SST variants</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../SST/SST-audio.html">Stop-Signal Task (SST) – audio Version</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../SST/main.html">Stop-Signal Task (SST) – PsyFlow Version</a></li>
 </ul>
 </li>
 </ul>
 
 </div>
 <div class="sidebar-cta">
-  <p><strong>Stop-Signal Task (SST)</strong></p>
+  <p><strong>Emotional Dot-Probe Task</strong></p>
   
     
       <p><strong>Version:</strong> 0.1.0</p>
@@ -232,7 +232,7 @@
     
   
     
-      <p><strong>psychopy-ver:</strong> 2025.1.1</p>
+      <p><strong>psychopy-ver:</strong> 2023.2.1</p>
     
   
 </div>
@@ -252,7 +252,7 @@
         </a>
         <div class="content-icon-container">
           <div class="view-this-page">
-  <a class="muted-link" href="../../_sources/Tasks/SST/main.md.txt" title="View this page">
+  <a class="muted-link" href="../../_sources/Tasks/EmoDot/main.md.txt" title="View this page">
     <svg><use href="#svg-eye"></use></svg>
     <span class="visually-hidden">View this page</span>
   </a>
@@ -272,14 +272,16 @@
           </label>
         </div>
         <article role="main" id="furo-main-content">
-          <section id="stop-signal-task-sst-psyflow-version">
-<h1>Stop-Signal Task (SST) – PsyFlow Version<a class="headerlink" href="#stop-signal-task-sst-psyflow-version" title="Link to this heading">¶</a></h1>
-<p>This task implements a Stop-Signal paradigm (SST) to assess inhibitory control mechanisms. Participants are asked to respond to left- or right-pointing arrows, but on some trials, they must inhibit their response when a red arrow appears. The task is built using the <a class="reference external" href="https://taskbeacon.github.io/psyflow/">PsyFlow</a> framework.</p>
+          <section id="emotional-dot-probe-task-psyflow-version">
+<h1>Emotional Dot-Probe Task – PsyFlow Version<a class="headerlink" href="#emotional-dot-probe-task-psyflow-version" title="Link to this heading">¶</a></h1>
+<p>This task implements an emotional dot-probe paradigm to measure attentional bias towards emotional versus neutral stimuli. Participants respond to the location of a target dot that appears after the brief presentation of two face stimuli. The task is built using the <a class="reference external" href="https://taskbeacon.github.io/psyflow/">PsyFlow</a> framework.</p>
+<hr class="docutils" />
 <section id="task-overview">
 <h2>Task Overview<a class="headerlink" href="#task-overview" title="Link to this heading">¶</a></h2>
-<p>Participants are instructed to respond as quickly and accurately as possible to directional arrows by pressing the left or right arrow keys. Occasionally, a red arrow appears after a short delay, signaling participants to withhold their response.</p>
-<p>The task uses an adaptive staircase procedure to dynamically adjust the stop-signal delay (SSD) to maintain approximately 50% successful inhibition on stop trials.</p>
+<p>Participants first view a fixation cross, followed by a brief presentation of a pair of face images (e.g., positive vs. neutral, negative vs. neutral). After a short interval, a small target dot appears on either the left or right side. Participants must quickly indicate the location of the dot by pressing the left or right arrow key.</p>
+<p>This task assesses attentional biases toward emotional stimuli and is widely used in studies of anxiety, depression, and emotional regulation.</p>
 </section>
+<hr class="docutils" />
 <section id="task-flow">
 <h2>Task Flow<a class="headerlink" href="#task-flow" title="Link to this heading">¶</a></h2>
 <div class="table-wrapper colwidths-auto docutils container">
@@ -291,44 +293,46 @@
 </thead>
 <tbody>
 <tr class="row-even"><td><p>Instruction</p></td>
-<td><p>A textbox (<code class="docutils literal notranslate"><span class="pre">instruction_text</span></code>) presents task instructions in Chinese. The participant presses the <strong>space bar</strong> to start.</p></td>
+<td><p>A textbox (<code class="docutils literal notranslate"><span class="pre">instruction_text</span></code>) presents task instructions in Chinese. Participant presses the <strong>space bar</strong> to start.</p></td>
 </tr>
 <tr class="row-odd"><td><p>Fixation</p></td>
-<td><p>A fixation cross “+” is shown before each trial.</p></td>
+<td><p>A fixation cross “+” is shown at the center of the screen.</p></td>
 </tr>
-<tr class="row-even"><td><p>Go Trial</p></td>
-<td><p>A white arrow points left or right. Participant should respond by pressing the matching arrow key.</p></td>
+<tr class="row-even"><td><p>Cue Pair</p></td>
+<td><p>A pair of face images (left and right) are displayed briefly.</p></td>
 </tr>
-<tr class="row-odd"><td><p>Stop Trial</p></td>
-<td><p>A red arrow appears after a delay (SSD); participant must inhibit their response.</p></td>
+<tr class="row-odd"><td><p>Interval</p></td>
+<td><p>A short blank screen or fixation is shown after the faces.</p></td>
 </tr>
-<tr class="row-even"><td><p>Feedback</p></td>
-<td><p>If no response is made on a go trial, a warning feedback is displayed.</p></td>
+<tr class="row-even"><td><p>Target</p></td>
+<td><p>A dot appears either on the left or right side; participant responds via arrow keys.</p></td>
 </tr>
 <tr class="row-odd"><td><p>Block Break</p></td>
-<td><p>After each block, performance summaries are shown with options to rest.</p></td>
+<td><p>After each block, performance feedback is presented and participants rest.</p></td>
 </tr>
 <tr class="row-even"><td><p>Goodbye</p></td>
-<td><p>A final thank-you screen and task termination.</p></td>
+<td><p>A final thank-you screen ends the session.</p></td>
 </tr>
 </tbody>
 </table>
 </div>
 </section>
+<hr class="docutils" />
 <section id="configuration-summary">
 <h2>Configuration Summary<a class="headerlink" href="#configuration-summary" title="Link to this heading">¶</a></h2>
-<p>All key settings are defined in <code class="docutils literal notranslate"><span class="pre">config/config.yaml</span></code>.</p>
+<p>All key settings are stored in the <code class="docutils literal notranslate"><span class="pre">config/config.yaml</span></code> file.</p>
 <section id="subject-info-subinfo-fields">
 <h3>Subject Info (<code class="docutils literal notranslate"><span class="pre">subinfo_fields</span></code>)<a class="headerlink" href="#subject-info-subinfo-fields" title="Link to this heading">¶</a></h3>
-<p>Participants register with:</p>
+<p>Participants are registered with:</p>
 <ul class="simple">
-<li><p><strong>Subject ID</strong> (three-digit number from 101–999)</p></li>
-<li><p><strong>Session name</strong></p></li>
-<li><p><strong>Experimenter</strong></p></li>
+<li><p><strong>Subject ID</strong> (3-digit number from 101–999)</p></li>
+<li><p><strong>Session Name</strong></p></li>
+<li><p><strong>Experimenter Name</strong></p></li>
 <li><p><strong>Gender</strong> (Male or Female)</p></li>
 </ul>
 <p>Localized prompts are available via <code class="docutils literal notranslate"><span class="pre">subinfo_mapping</span></code>.</p>
 </section>
+<hr class="docutils" />
 <section id="window-settings-window">
 <h3>Window Settings (<code class="docutils literal notranslate"><span class="pre">window</span></code>)<a class="headerlink" href="#window-settings-window" title="Link to this heading">¶</a></h3>
 <ul class="simple">
@@ -336,9 +340,10 @@
 <li><p>Units: <code class="docutils literal notranslate"><span class="pre">deg</span></code></p></li>
 <li><p>Fullscreen: <code class="docutils literal notranslate"><span class="pre">True</span></code></p></li>
 <li><p>Monitor: <code class="docutils literal notranslate"><span class="pre">testMonitor</span></code></p></li>
-<li><p>Background color: <code class="docutils literal notranslate"><span class="pre">gray</span></code></p></li>
+<li><p>Background color: <code class="docutils literal notranslate"><span class="pre">black</span></code></p></li>
 </ul>
 </section>
+<hr class="docutils" />
 <section id="stimuli-stimuli">
 <h3>Stimuli (<code class="docutils literal notranslate"><span class="pre">stimuli</span></code>)<a class="headerlink" href="#stimuli-stimuli" title="Link to this heading">¶</a></h3>
 <div class="table-wrapper colwidths-auto docutils container">
@@ -354,38 +359,32 @@
 <td><p><code class="docutils literal notranslate"><span class="pre">text</span></code></p></td>
 <td><p>Central fixation cross “+”</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">go_left</span></code>, <code class="docutils literal notranslate"><span class="pre">go_right</span></code></p></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">shape</span></code></p></td>
-<td><p>White arrows indicating response direction</p></td>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">left_stim</span></code>, <code class="docutils literal notranslate"><span class="pre">right_stim</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">image</span></code></p></td>
+<td><p>Face stimuli dynamically assigned per trial</p></td>
 </tr>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">stop_left</span></code>, <code class="docutils literal notranslate"><span class="pre">stop_right</span></code></p></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">shape</span></code></p></td>
-<td><p>Red arrows indicating stop signal</p></td>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">left_target</span></code>, <code class="docutils literal notranslate"><span class="pre">right_target</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">circle</span></code></p></td>
+<td><p>Target dots shown left or right</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">no_response_feedback</span></code></p></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">textbox</span></code></p></td>
-<td><p>Feedback message for missed go responses</p></td>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">block_break</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">text</span></code></p></td>
+<td><p>Mid-task break message</p></td>
 </tr>
 <tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">instruction_text</span></code></p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">textbox</span></code></p></td>
-<td><p>Pre-task instruction screen</p></td>
+<td><p>Task instructions in Chinese</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">block_break</span></code></p></td>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">good_bye</span></code></p></td>
 <td><p><code class="docutils literal notranslate"><span class="pre">textbox</span></code></p></td>
-<td><p>Mid-task break screen</p></td>
-</tr>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">good_bye</span></code></p></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">textbox</span></code></p></td>
-<td><p>Final thank-you screen</p></td>
-</tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">iti_stim</span></code></p></td>
-<td><p><code class="docutils literal notranslate"><span class="pre">text</span></code></p></td>
-<td><p>Blank screen during ITI</p></td>
+<td><p>End-of-task thank-you screen</p></td>
 </tr>
 </tbody>
 </table>
 </div>
+<p>Stimulus images are dynamically assigned based on trial conditions using an <code class="docutils literal notranslate"><span class="pre">asset_pool</span></code>.</p>
 </section>
+<hr class="docutils" />
 <section id="timing-timing">
 <h3>Timing (<code class="docutils literal notranslate"><span class="pre">timing</span></code>)<a class="headerlink" href="#timing-timing" title="Link to this heading">¶</a></h3>
 <div class="table-wrapper colwidths-auto docutils container">
@@ -397,104 +396,78 @@
 </thead>
 <tbody>
 <tr class="row-even"><td><p>Fixation</p></td>
-<td><p>0.5–0.8 seconds (randomized)</p></td>
+<td><p>0.3 seconds</p></td>
 </tr>
-<tr class="row-odd"><td><p>Go stimulus duration</p></td>
-<td><p>1.0 second</p></td>
+<tr class="row-odd"><td><p>Face Cue</p></td>
+<td><p>0.5 seconds</p></td>
 </tr>
-<tr class="row-even"><td><p>No-response feedback</p></td>
-<td><p>0.8 seconds</p></td>
+<tr class="row-even"><td><p>Interval</p></td>
+<td><p>0.4–0.6 seconds (randomized)</p></td>
 </tr>
-<tr class="row-odd"><td><p>ITI</p></td>
-<td><p>0.5–0.8 seconds (randomized)</p></td>
+<tr class="row-odd"><td><p>Target Response Time</p></td>
+<td><p>1.2 seconds</p></td>
 </tr>
 </tbody>
 </table>
 </div>
 </section>
+<hr class="docutils" />
+<section id="conditions-task-conditions">
+<h3>Conditions (<code class="docutils literal notranslate"><span class="pre">task.conditions</span></code>)<a class="headerlink" href="#conditions-task-conditions" title="Link to this heading">¶</a></h3>
+<p>Each condition represents the combination of:</p>
+<ul class="simple">
+<li><p>Emotion pair (Positive-Neutral, Negative-Neutral, Neutral-Neutral)</p></li>
+<li><p>Gender of faces (Female, Male)</p></li>
+<li><p>Target side (Left, Right)</p></li>
+</ul>
+<p>Example condition codes:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">PN_F_L</span></code> – Positive (left) / Neutral (right), Female faces, Target Left</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">SN_M_R</span></code> – Negative (left) / Neutral (right), Male faces, Target Right</p></li>
+<li><p>etc.</p></li>
+</ul>
+<p>There are 18 conditions in total.</p>
+</section>
+<hr class="docutils" />
 <section id="triggers-triggers">
 <h3>Triggers (<code class="docutils literal notranslate"><span class="pre">triggers</span></code>)<a class="headerlink" href="#triggers-triggers" title="Link to this heading">¶</a></h3>
-<p>The following event triggers are sent for synchronization (e.g., EEG, MEG):</p>
+<p>Each condition has a full set of triggers:</p>
 <div class="table-wrapper colwidths-auto docutils container">
 <table class="docutils align-default">
 <thead>
 <tr class="row-odd"><th class="head"><p>Event</p></th>
-<th class="head"><p>Code</p></th>
+<th class="head"><p>Trigger Code Example (for <code class="docutils literal notranslate"><span class="pre">PN_F_L</span></code>)</p></th>
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><p>Experiment start</p></td>
-<td><p>98</p></td>
-</tr>
-<tr class="row-odd"><td><p>Experiment end</p></td>
-<td><p>99</p></td>
-</tr>
-<tr class="row-even"><td><p>Block start</p></td>
-<td><p>100</p></td>
-</tr>
-<tr class="row-odd"><td><p>Block end</p></td>
-<td><p>101</p></td>
-</tr>
-<tr class="row-even"><td><p>Fixation onset</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td><p>Go onset</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="row-even"><td><p>Go response</p></td>
+<tr class="row-even"><td><p>Fixation Onset</p></td>
 <td><p>11</p></td>
 </tr>
-<tr class="row-odd"><td><p>Go miss</p></td>
+<tr class="row-odd"><td><p>Cue Onset</p></td>
 <td><p>12</p></td>
 </tr>
-<tr class="row-even"><td><p>Pre-stop response</p></td>
-<td><p>23</p></td>
+<tr class="row-even"><td><p>Target Onset</p></td>
+<td><p>13</p></td>
 </tr>
-<tr class="row-odd"><td><p>On-stop response</p></td>
-<td><p>24</p></td>
+<tr class="row-odd"><td><p>Key Press</p></td>
+<td><p>14</p></td>
 </tr>
-<tr class="row-even"><td><p>Post-stop response</p></td>
-<td><p>25</p></td>
-</tr>
-<tr class="row-odd"><td><p>No-response feedback onset</p></td>
-<td><p>30</p></td>
+<tr class="row-even"><td><p>No Response</p></td>
+<td><p>15</p></td>
 </tr>
 </tbody>
 </table>
 </div>
-</section>
-<section id="adaptive-controller-controller">
-<h3>Adaptive Controller (<code class="docutils literal notranslate"><span class="pre">controller</span></code>)<a class="headerlink" href="#adaptive-controller-controller" title="Link to this heading">¶</a></h3>
-<p>The SST uses a staircase tracking algorithm to adjust stop-signal delay (SSD).</p>
-<div class="table-wrapper colwidths-auto docutils container">
-<table class="docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>Parameter</p></th>
-<th class="head"><p>Value</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Initial SSD</p></td>
-<td><p>0.25 seconds</p></td>
-</tr>
-<tr class="row-odd"><td><p>Step Size</p></td>
-<td><p>0.05 seconds</p></td>
-</tr>
-<tr class="row-even"><td><p>Minimum SSD</p></td>
-<td><p>0.05 seconds</p></td>
-</tr>
-<tr class="row-odd"><td><p>Maximum SSD</p></td>
-<td><p>0.5 seconds</p></td>
-</tr>
-<tr class="row-even"><td><p>Target Success Rate</p></td>
-<td><p>50% (1-up/1-down staircase method)</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>The staircase controller increases or decreases the SSD based on whether the participant successfully inhibits their response.</p>
+<p>General experiment and block onset/end triggers:</p>
+<ul class="simple">
+<li><p><strong>Experiment Start</strong>: 98</p></li>
+<li><p><strong>Experiment End</strong>: 99</p></li>
+<li><p><strong>Block Start</strong>: 198</p></li>
+<li><p><strong>Block End</strong>: 199</p></li>
+</ul>
 </section>
 </section>
+<hr class="docutils" />
 <section id="running-the-task">
 <h2>Running the Task<a class="headerlink" href="#running-the-task" title="Link to this heading">¶</a></h2>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">python</span> <span class="n">main</span><span class="o">.</span><span class="n">py</span>
@@ -508,15 +481,23 @@
       <footer>
         
         <div class="related-pages">
-          
-          <a class="prev-page" href="SST-audio.html">
+          <a class="next-page" href="../SST_index.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">SST variants</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="../EmoDot_index.html">
               <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
               <div class="page-info">
                 <div class="context">
                   <span>Previous</span>
                 </div>
                 
-                <div class="title">Stop-Signal Task (SST) – audio Version</div>
+                <div class="title">EmoDot variants</div>
                 
               </div>
             </a>
@@ -550,7 +531,7 @@
         <div class="toc-tree-container">
           <div class="toc-tree">
             <ul>
-<li><a class="reference internal" href="#">Stop-Signal Task (SST) – PsyFlow Version</a><ul>
+<li><a class="reference internal" href="#">Emotional Dot-Probe Task – PsyFlow Version</a><ul>
 <li><a class="reference internal" href="#task-overview">Task Overview</a></li>
 <li><a class="reference internal" href="#task-flow">Task Flow</a></li>
 <li><a class="reference internal" href="#configuration-summary">Configuration Summary</a><ul>
@@ -558,8 +539,8 @@
 <li><a class="reference internal" href="#window-settings-window">Window Settings (<code class="docutils literal notranslate"><span class="pre">window</span></code>)</a></li>
 <li><a class="reference internal" href="#stimuli-stimuli">Stimuli (<code class="docutils literal notranslate"><span class="pre">stimuli</span></code>)</a></li>
 <li><a class="reference internal" href="#timing-timing">Timing (<code class="docutils literal notranslate"><span class="pre">timing</span></code>)</a></li>
+<li><a class="reference internal" href="#conditions-task-conditions">Conditions (<code class="docutils literal notranslate"><span class="pre">task.conditions</span></code>)</a></li>
 <li><a class="reference internal" href="#triggers-triggers">Triggers (<code class="docutils literal notranslate"><span class="pre">triggers</span></code>)</a></li>
-<li><a class="reference internal" href="#adaptive-controller-controller">Adaptive Controller (<code class="docutils literal notranslate"><span class="pre">controller</span></code>)</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#running-the-task">Running the Task</a></li>

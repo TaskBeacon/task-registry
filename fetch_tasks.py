@@ -2,15 +2,15 @@
 import os, json, time, urllib.request, urllib.error, re
 
 ORG               = "TaskBeacon"
-EXCLUDED_REPOS    = {"taskbeacon.github.io", ".github", "task_index","nback","MID","Rest","PRL",'Movie'}
-MAX_RETRIES       = 100           # attempts per download
+EXCLUDED_REPOS    = {"taskbeacon.github.io", ".github", "task_index","nback","MID","Rest","PRL",'Movie','psyflow'}
+MAX_RETRIES       = 3           # attempts per download
 SLEEP_BETWEEN_SEC = 2           # wait between retries
 
 HEADERS = {                     # add a token here if you hit rate-limits
     "User-Agent": "TaskBeacon-variant-fetcher"
 }
 
-RAW_URL  = "https://raw.githubusercontent.com/{org}/{repo}/{branch}/README.md"
+RAW_URL  = "https://raw.githubusercontent.com/{org}/{repo}/{branch}/"
 REPOS_API = f"https://api.github.com/orgs/{ORG}/repos"
 
 ROOT_TASKS_DIR   = os.path.join("source", "Tasks")
@@ -20,7 +20,7 @@ def safe_branch(branch_name: str) -> str:
     """Make branch name filesystem-safe (convert / to __ etc.)."""
     return re.sub(r"[\\/:*?\"<>|]", "__", branch_name)
 
-def download_with_retry(url: str, dest: str, retries: int = MAX_RETRIES) -> bool:
+def download(url: str, dest: str, retries: int = MAX_RETRIES) -> bool:
     for attempt in range(1, retries + 1):
         try:
             urllib.request.urlretrieve(url, dest)
@@ -62,12 +62,18 @@ for repo in task_repos:
     for br in branches:
         safe_name  = safe_branch(br)
         dest_file  = os.path.join(repo_dir, f"{safe_name}.md")
-        raw_url    = RAW_URL.format(org=ORG, repo=repo, branch=br)
+        raw_url    = RAW_URL.format(org=ORG, repo=repo, branch=br) + "README.md"
 
         print(f"  ↳ Fetching {raw_url}")
-        if download_with_retry(raw_url, dest_file):
+        if download(raw_url, dest_file):
             print("    ✅ saved as", dest_file)
             ok_variants.append(safe_name)
+        else:
+            print("    ❌ giving up")
+        meta_url  = RAW_URL.format(org=ORG, repo=repo, branch=br) + "meta.json"
+        meta_dest = os.path.join(repo_dir, f"{safe_name}.meta.json")
+        if download(meta_url, meta_dest):
+            print("  ✅  meta.json saved",meta_dest)
         else:
             print("    ❌ giving up")
 

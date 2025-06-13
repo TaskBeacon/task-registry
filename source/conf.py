@@ -49,3 +49,28 @@ source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
 }
+
+
+
+import os, json, pathlib
+
+# ① add template dir & put panel into every sidebar
+templates_path = ["_templates"]
+html_sidebars  = {
+    "**": [
+        "sidebar/brand.html",
+        "sidebar/search.html",
+        "sidebar/navigation.html",
+        "info-panel.html",          # ← our new template
+    ]
+}
+
+# ② inject meta.json (if present) into Jinja context
+def add_task_meta(app, pagename, templatename, context, doctree):
+    md_path   = pathlib.Path(app.srcdir) / (pagename + ".md")
+    meta_path = md_path.with_suffix(".meta.json")
+    if meta_path.exists():
+        context["task_meta"] = json.loads(meta_path.read_text())
+
+def setup(app):
+    app.connect("html-page-context", add_task_meta)

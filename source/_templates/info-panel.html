@@ -1,0 +1,15 @@
+{% if task_meta %}
+<div class="sidebar-cta">
+  <p><strong>{{ task_meta.get("name", pagename) }}</strong></p>
+  {% for key, label in [
+        ("version", "Version"),
+        ("created_by", "Author"),
+        ("date_created", "Created"),
+        ("psyflow_version", "psyflow-ver"),
+        ("psychopy_version", "psychopy-ver")] %}
+    {% if task_meta.get(key) %}
+      <p><strong>{{ label }}:</strong> {{ task_meta[key] }}</p>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
