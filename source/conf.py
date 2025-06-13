@@ -56,14 +56,18 @@ import os, json, pathlib
 
 # ① add template dir & put panel into every sidebar
 templates_path = ["_templates"]
-html_sidebars  = {
+html_sidebars = {
+    # everything (“**”) gets the same set
     "**": [
-        "sidebar/brand.html",
         "sidebar/search.html",
-        "sidebar/navigation.html",
-        "info-panel.html",          # ← our new template
+        "sidebar/navigation.html",   # left column (primary)
+        "sidebar/task-meta.html",    # ← our new info panel (right)
     ]
 }
+
+# if you already had html_sidebars, just insert "sidebar/task-meta.html"
+# after "sidebar/toc.html".
+
 
 # ② inject meta.json (if present) into Jinja context
 def add_task_meta(app, pagename, templatename, context, doctree):

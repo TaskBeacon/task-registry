@@ -1,5 +1,6 @@
+{# sidebar/task-meta.html  #}
 {% if task_meta %}
-<div class="sidebar-cta">
+<div class="sidebar-cta">  {# Furo provides this nice boxed style #}
   <p><strong>{{ task_meta.get("name", pagename) }}</strong></p>
   {% for key, label in [
         ("version", "Version"),
