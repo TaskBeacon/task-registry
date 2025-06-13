@@ -33,3 +33,19 @@ html_static_path = ['_static']
 #     "light_logo": "logo-light.png",
 #     "dark_logo": "logo-dark.png",
 # }
+
+
+# Enable extensions
+extensions = [
+    "myst_parser",                      # Markdown support
+    "sphinx.ext.autodoc",              # Auto pull docstrings
+    "sphinx.ext.napoleon",             # Google/Numpy style docstrings
+    "sphinx_autodoc_typehints",        # Type hints in docs
+]
+
+
+# Allow both .rst and .md files
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
