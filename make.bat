@@ -28,9 +28,11 @@ IF "%1"=="" GOTO help
 REM Run the sphinx-build target
 IF "%1"=="html" (
     %SPHINXBUILD% -b html %SOURCEDIR% %BUILDDIR%
+    echo.> %BUILDDIR%\.nojekyll
 ) ELSE (
     %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 )
+
 GOTO end
 
 :help
