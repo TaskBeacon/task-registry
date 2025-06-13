@@ -12,9 +12,4 @@ Tasks
 
    Tasks/task1
 
-Indices and Tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
