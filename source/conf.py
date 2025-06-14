@@ -9,7 +9,7 @@
 project = 'Tasks'
 copyright = '2025, zhipeng'
 author = 'zhipeng'
-release = '1'
+release = ''
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -25,6 +25,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "furo"
+html_theme_options = {
+    "announcement": "This is in development!",
+}
 html_static_path = ['_static']
 
 # html_logo = "_static/logo.png"  # add later if you want
@@ -56,17 +59,23 @@ import os, json, pathlib
 
 # ① add template dir & put panel into every sidebar
 templates_path = ["_templates"]
-# html_sidebars = {
-#     "**": [
-#         "sidebar/brand.html",
-#         "sidebar/search.html",
-#         "sidebar/navigation.html",     # left column
-#         "sidebar/scroll-start.html",   # ← switch to right column
-#         # "sidebar/toc.html",            # TOC on the right
-#         "sidebar/scroll-end.html",     # ← right column ends
-#         "sidebar/task-meta.html",      # ← now this shows below that, as a floating panel
-#     ]
-# }
+html_sidebars = {
+    "**": [
+        "sidebar/brand.html",
+        "sidebar/search.html",
+        "sidebar/navigation.html",    
+        "sidebar/scroll-start.html",   
+        "sidebar/task-meta.html",     
+        "sidebar/scroll-end.html",   
+        # any further items here would float on the left again
+    ]
+}
+
+# conf.py
+html_static_path = ["_static"]
+html_css_files = [
+    "custom.css",
+]
 
 
 # ② inject meta.json (if present) into Jinja context

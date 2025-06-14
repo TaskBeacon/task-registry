@@ -1,18 +1,28 @@
-{# sidebar/task-meta.html  #}
+{# _templates/sidebar/task-meta.html #}
 {% if task_meta %}
-<div class="sidebar-cta">  {# Furo provides this nice boxed style #}
-  <p><strong>{{ task_meta.get("name", pagename) }}</strong></p>
-  {% for key, label in [
-        ("version", "Version"),
-        ("created_by", "Author"),
-        ("date_created", "Created"),
-        ("psyflow_version", "psyflow-ver"),
-        ("psychopy_version", "psychopy-ver")] %}
-    {% if task_meta.get(key) %}
-      <p><strong>{{ label }}:</strong> {{ task_meta[key] }}</p>
-    {% endif %}
-  {% endfor %}
-</div>
+<aside class="sidebar-group task-meta-panel">
+  <div class="sidebar-group-header task-meta-header">Task Info</div>
+  <div class="sidebar-group-content">
+    <ul class="sidebar-list">
+      <!-- <li class="sidebar-list-item">
+        <span class="sidebar-list-link"><strong>{{ task_meta.get("name", pagename) }}</strong></span>
+      </li> -->
+      {% for key, label in [
+          ("version",        "Version"),
+          ("created_by",     "Author"),
+          ("date_created",   "Created"),
+          ("psyflow_version","psyflow-ver"),
+          ("psychopy_version","psychopy-ver"),
+        ] %}
+        {% if task_meta.get(key) %}
+          <li class="sidebar-list-item">
+            <span class="sidebar-list-text">
+              <strong>{{ label }}:</strong> {{ task_meta[key] }}
+            </span>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</aside>
 {% endif %}
-
-
