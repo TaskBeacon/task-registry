@@ -56,17 +56,17 @@ import os, json, pathlib
 
 # ① add template dir & put panel into every sidebar
 templates_path = ["_templates"]
-html_sidebars = {
-    # everything (“**”) gets the same set
-    "**": [
-        "sidebar/search.html",
-        "sidebar/navigation.html",   # left column (primary)
-        "sidebar/task-meta.html",    # ← our new info panel (right)
-    ]
-}
-
-# if you already had html_sidebars, just insert "sidebar/task-meta.html"
-# after "sidebar/toc.html".
+# html_sidebars = {
+#     "**": [
+#         "sidebar/brand.html",
+#         "sidebar/search.html",
+#         "sidebar/navigation.html",     # left column
+#         "sidebar/scroll-start.html",   # ← switch to right column
+#         # "sidebar/toc.html",            # TOC on the right
+#         "sidebar/scroll-end.html",     # ← right column ends
+#         "sidebar/task-meta.html",      # ← now this shows below that, as a floating panel
+#     ]
+# }
 
 
 # ② inject meta.json (if present) into Jinja context
