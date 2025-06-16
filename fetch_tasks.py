@@ -70,12 +70,12 @@ for repo in task_repos:
             ok_variants.append(safe_name)
         else:
             print("    ❌ giving up")
-        meta_url  = RAW_URL.format(org=ORG, repo=repo, branch=br) + "meta.json"
-        meta_dest = os.path.join(repo_dir, f"{safe_name}.meta.json")
-        if download(meta_url, meta_dest):
-            print("  ✅  meta.json saved",meta_dest)
-        else:
-            print("    ❌ giving up")
+        # meta_url  = RAW_URL.format(org=ORG, repo=repo, branch=br) + "meta.json"
+        # meta_dest = os.path.join(repo_dir, f"{safe_name}.meta.json")
+        # if download(meta_url, meta_dest):
+        #     print("  ✅  meta.json saved",meta_dest)
+        # else:
+        #     print("    ❌ giving up")
 
     # make per-task rst if we downloaded at least one variant
     if ok_variants:

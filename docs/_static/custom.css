@@ -36,3 +36,24 @@ html body .task-meta-panel .sidebar-list-item::before {
   display: none !important;
 }
 
+
+/* ensure Quick Links text matches other sidebar items */
+.sidebar-cta.entries-box,
+.sidebar-cta.entries-box a {
+  font-size: var(--font-size-small)*1.2;  /* uses the theme’s small font size */
+}
+
+/* add a tiny bit of vertical spacing between items */
+.sidebar-cta.entries-box li + li {
+  margin-top: 0.25rem;
+}
+
+
+.sidebar-logo {
+  max-width: 200px;   /* adjust as needed */
+  height: auto;
+}
+
+.sidebar-logo-container {
+  text-align: left;
+}

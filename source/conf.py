@@ -25,18 +25,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "furo"
-html_theme_options = {
-    "announcement": "This is in development!",
-}
 html_static_path = ['_static']
 
-# html_logo = "_static/logo.png"  # add later if you want
-# html_theme_options = {
-#     "sidebar_hide_name": True,
-#     "light_logo": "logo-light.png",
-#     "dark_logo": "logo-dark.png",
-# }
-
+html_theme_options = {
+    "sidebar_hide_name": True,
+    "light_logo": "logo-light.png",
+    "dark_logo": "logo-dark.png",
+}
 
 # Enable extensions
 extensions = [
@@ -62,11 +57,8 @@ templates_path = ["_templates"]
 html_sidebars = {
     "**": [
         "sidebar/brand.html",
-        "sidebar/search.html",
+        "sidebar/entries.html",  
         "sidebar/navigation.html",    
-        "sidebar/scroll-start.html",   
-        "sidebar/task-meta.html",     
-        "sidebar/scroll-end.html",   
         # any further items here would float on the left again
     ]
 }
