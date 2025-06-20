@@ -27,10 +27,15 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = "furo"
 html_static_path = ['_static']
 
+
+html_logo = "_static/logo-nobg.png"  # add later if you want
 html_theme_options = {
     "sidebar_hide_name": True,
-    "light_logo": "logo-light.png",
-    "dark_logo": "logo-dark.png",
+    # "light_logo": "logo-light.png",
+    # "dark_logo": "logo-dark.png",
+    "source_repository": "https://github.com/TaskBeacon/task_index/",
+    "source_branch": "main",
+    "source_directory": "source/",
 }
 
 # Enable extensions
@@ -39,6 +44,8 @@ extensions = [
     "sphinx.ext.autodoc",              # Auto pull docstrings
     "sphinx.ext.napoleon",             # Google/Numpy style docstrings
     "sphinx_autodoc_typehints",        # Type hints in docs
+    "sphinx.ext.viewcode",
+    "sphinx.ext.githubpages",
 ]
 
 
