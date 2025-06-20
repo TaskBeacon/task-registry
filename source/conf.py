@@ -6,10 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Tasks'
-copyright = '2025, zhipeng'
-author = 'zhipeng'
+project = 'TaskBeacon'
+copyright = '2025, Zhipeng Cao'
+author = 'Zhipeng Cao'
 release = ''
+html_title = "TaskBeacon"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
