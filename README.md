@@ -1,4 +1,10 @@
-## todo list
+# Potential Tasks to Add
+
+> ⚠️ **Disclaimer**: This is not an exhaustive or definitive list.  
+> Some task names, labels, or categorizations may be broad, approximate, or inconsistent across studies.  
+> The purpose here is to **illustrate possible options** for further selection and refinement.  
+> We may choose to **include a subset of these tasks** in our final battery, but **not all** will be adopted.
+
 ### Negative Valence Systems
 
 | Construct                     | Suggested Paradigms |
@@ -63,3 +69,134 @@
 | Arousal                   | - [ ] Psychomotor Vigilance Task<br>- [ ] Heart‑Rate Variability<br>- [ ] Pupillometry<br>- [ ] Cardiac Pre-Ejection Period<br>- [ ] Electrodermal Activity (EDA) |
 | Circadian Rhythms         | *(paradigms from workgroup report)* |
 | Sleep & Wakefulness       | *(paradigms from workgroup report)* |
+
+
+
+# 🧠 Expanded List of Classic & Interesting Cognitive/Neuroscience Tasks
+## Categorized by Primary Construct / Domain  
+*(Includes 70 total tasks)*
+
+---
+
+## 🔁 Working Memory & Executive Function
+
+- [ ] N-Back Task  
+- [ ] Sternberg Task  
+- [ ] Change Detection Task  
+- [ ] Self-Ordered Pointing Task  
+- [ ] Tower of London / Tower of Hanoi  
+- [ ] Wisconsin Card Sorting Task  
+- [ ] Stroop-like Emotional Conflict Task  
+- [ ] AX-CPT / DPX  
+- [ ] Task Switching Paradigm  
+- [ ] Trail Making Test (A & B)  
+- [ ] Hayling Sentence Completion Task  
+- [ ] Multi-source Interference Task (MSIT)  
+- [ ] Keep-Track Task  
+- [ ] Simon Task (classic and tactile)  
+
+---
+
+## 🧠 Reasoning, Fluid Intelligence, Language
+
+- [ ] Raven's Progressive Matrices  
+- [ ] Matrix Reasoning  
+- [ ] Mental Rotation Task  
+- [ ] Category Fluency / Verbal Fluency  
+- [ ] Naming Task  
+- [ ] Sentence Comprehension Task  
+- [ ] Semantic Association or Relation Detection  
+- [ ] Discourse Coherence Judgment  
+- [ ] Verbal Analogies  
+- [ ] Language-based Visual World Paradigm  
+
+---
+
+## 📚 Episodic Memory & Learning
+
+- [ ] Rey Auditory Verbal Learning Test (RAVLT)  
+- [ ] California Verbal Learning Test (CVLT)  
+- [ ] DRM False Memory Paradigm  
+- [ ] Object-Location Memory Task  
+- [ ] Visual Paired Comparison Task  
+- [ ] Mnemonic Similarity Task (Pattern Separation)  
+- [ ] Transitive Inference Task  
+- [ ] Paired-Associate Learning Task  
+- [ ] Serial Reaction Time Task  
+- [ ] Weather Prediction Task  
+- [ ] Contextual Fear Conditioning  
+- [ ] Acquired Equivalence  
+
+---
+
+## 🧍‍♀️ Social Cognition & Moral Decision-Making
+
+- [ ] Ultimatum Game  
+- [ ] Trust Game  
+- [ ] Dictator Game  
+- [ ] Prisoner’s Dilemma  
+- [ ] Cyberball (social exclusion/inclusion)  
+- [ ] Moral Dilemma (Trolley Problem)  
+- [ ] Empathy for Pain Task  
+- [ ] Reading the Mind from Eyes  
+- [ ] Reading the Mind from Voice  
+- [ ] Self-Referential Memory Paradigm  
+- [ ] Attributional Style Task  
+- [ ] Gaze-Following Task  
+- [ ] Animacy Detection via Point-Light Displays  
+- [ ] How/Why Task (action understanding)  
+- [ ] Iterated Deception Game (e.g., iterated trust)
+
+---
+
+## 🎯 Reward, Motivation, Risk, & Decision-Making
+
+- [ ] Iowa Gambling Task  
+- [ ] Balloon Analogue Risk Task (BART)  
+- [ ] Cambridge Gambling Task  
+- [ ] Game of Dice Task  
+- [ ] Delay Discounting Task  
+- [ ] Effort Expenditure for Reward Task (EEfRT)  
+- [ ] Two-Armed Bandit Tasks  
+- [ ] Probabilistic Stimulus Selection  
+- [ ] Classical and Instrumental Conditioning  
+- [ ] Loss Aversion / Framing Task  
+- [ ] Risk Perception Estimation  
+- [ ] Willingness-to-Pay Task  
+- [ ] Passive Lottery Task (e.g., Rutledge)  
+- [ ] Reinforcement Learning with Devaluation  
+
+---
+
+## ⏱ Attention, Timing, Sensorimotor
+
+- [ ] Attentional Blink  
+- [ ] Psychomotor Vigilance Task  
+- [ ] Go/No-Go  
+- [ ] Stop-Signal Task (standard & staircase)  
+- [ ] Antisaccade Task  
+- [ ] Dichotic Listening  
+- [ ] Temporal Bisection Task  
+- [ ] Tapping Synchronization Task  
+- [ ] Hand Laterality Judgment  
+- [ ] Continuous Performance Task  
+- [ ] Visual Search  
+- [ ] Flanker Task  
+- [ ] Motion Interference (biological vs scrambled)  
+- [ ] Anti-Reach Task (motor inhibition)
+
+---
+
+## 🌐 Ecological, Naturalistic, and Emerging Paradigms
+
+- [ ] Naturalistic Movie Watching (ISC)  
+- [ ] Narrative Listening with Surprise Probes  
+- [ ] VR Trust Task  
+- [ ] VR Social Navigation Task  
+- [ ] Mobile EMA-linked Cognitive Probes  
+- [ ] Eye-tracking Preference Task  
+- [ ] Social Media Cue Reactivity  
+- [ ] Smartwatch-Based Working Memory Probe  
+- [ ] Gamified Goalkeeper Prediction Task  
+- [ ] App-based Delay Discounting / Stroop
+
