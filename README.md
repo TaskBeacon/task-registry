@@ -1,10 +1,11 @@
 # Potential Tasks to Add
 
-> ⚠️ **Disclaimer**: This is not an exhaustive or definitive list.  
+> **Disclaimer**: This is not an exhaustive or definitive list.  
 > Some task names, labels, or categorizations may be broad, approximate, or inconsistent across studies.  
 > The purpose here is to **illustrate possible options** for further selection and refinement.  
 > We may choose to **include a subset of these tasks** in our final battery, but **not all** will be adopted.
 
+## Rdoc
 ### Negative Valence Systems
 
 | Construct                     | Suggested Paradigms |
@@ -15,7 +16,6 @@
 | Sustained Threat             | *(none listed)* |
 | Loss                         | *(paradigms typically from workgroup)* |
 
----
 
 ### Positive Valence Systems
 
@@ -30,7 +30,6 @@
 | Delay (Discounting)                 | - [ ] Delay Discounting Task |
 | Effort                              | - [ ] EEfRT (Effort-Expenditure for Rewards Task) |
 
----
 
 ### Cognitive Systems
 
@@ -44,9 +43,8 @@
 | Cognitive Control              | - [ ] AX‑CPT/DPX<br>- [ ] Task Switching<br>- [ ] Stroop<br>- [ ] Simon<br>- [ ] Flanker<br>- [ ] Go/No‑Go<br>- [ ] Stop‑Signal<br>- [ ] Antisaccade<br>- [ ] Badre/Koechlin Paradigms |
 | Working Memory                 | - [ ] N‑Back<br>- [ ] Sternberg<br>- [ ] Change Detection<br>- [ ] Complex/Simple Span Tasks<br>- [ ] Self-Ordered Pointing<br>- [ ] Letter–Number Sequencing<br>- [ ] Keep‑Track |
 
----
 
-### 🤝 Social Processes
+### Social Processes
 
 | Construct / Subconstruct                         | Suggested Paradigms |
 |--------------------------------------------------|---------------------|
@@ -62,7 +60,7 @@
 
 ---
 
-### ⏰ Arousal & Regulatory Systems
+### Arousal & Regulatory Systems
 
 | Construct                 | Suggested Paradigms |
 |---------------------------|----------------------|
@@ -71,15 +69,12 @@
 | Sleep & Wakefulness       | *(paradigms from workgroup report)* |
 
 
-
-# 🧠 Expanded List of Classic & Interesting Cognitive/Neuroscience Tasks
-## Categorized by Primary Construct / Domain  
+---
+## Expanded List of Classic & Interesting Cognitive/Neuroscience Tasks
+Categorized by Primary Construct / Domain  
 *(Includes 70 total tasks)*
 
----
-
-## 🔁 Working Memory & Executive Function
-
+###  Working Memory & Executive Function
 - [ ] N-Back Task  
 - [ ] Sternberg Task  
 - [ ] Change Detection Task  
@@ -95,10 +90,8 @@
 - [ ] Keep-Track Task  
 - [ ] Simon Task (classic and tactile)  
 
----
 
-## 🧠 Reasoning, Fluid Intelligence, Language
-
+##  Reasoning, Fluid Intelligence, Language
 - [ ] Raven's Progressive Matrices  
 - [ ] Matrix Reasoning  
 - [ ] Mental Rotation Task  
@@ -110,10 +103,8 @@
 - [ ] Verbal Analogies  
 - [ ] Language-based Visual World Paradigm  
 
----
 
-## 📚 Episodic Memory & Learning
-
+###  Episodic Memory & Learning
 - [ ] Rey Auditory Verbal Learning Test (RAVLT)  
 - [ ] California Verbal Learning Test (CVLT)  
 - [ ] DRM False Memory Paradigm  
@@ -127,10 +118,8 @@
 - [ ] Contextual Fear Conditioning  
 - [ ] Acquired Equivalence  
 
----
 
-## 🧍‍♀️ Social Cognition & Moral Decision-Making
-
+### Social Cognition & Moral Decision-Making
 - [ ] Ultimatum Game  
 - [ ] Trust Game  
 - [ ] Dictator Game  
@@ -147,10 +136,8 @@
 - [ ] How/Why Task (action understanding)  
 - [ ] Iterated Deception Game (e.g., iterated trust)
 
----
 
-## 🎯 Reward, Motivation, Risk, & Decision-Making
-
+### Reward, Motivation, Risk, & Decision-Making
 - [ ] Iowa Gambling Task  
 - [ ] Balloon Analogue Risk Task (BART)  
 - [ ] Cambridge Gambling Task  
@@ -166,10 +153,8 @@
 - [ ] Passive Lottery Task (e.g., Rutledge)  
 - [ ] Reinforcement Learning with Devaluation  
 
----
 
-## ⏱ Attention, Timing, Sensorimotor
-
+### Attention, Timing, Sensorimotor
 - [ ] Attentional Blink  
 - [ ] Psychomotor Vigilance Task  
 - [ ] Go/No-Go  
@@ -185,10 +170,7 @@
 - [ ] Motion Interference (biological vs scrambled)  
 - [ ] Anti-Reach Task (motor inhibition)
 
----
-
-## 🌐 Ecological, Naturalistic, and Emerging Paradigms
-
+### Ecological, Naturalistic, and Emerging Paradigms
 - [ ] Naturalistic Movie Watching (ISC)  
 - [ ] Narrative Listening with Surprise Probes  
 - [ ] VR Trust Task  
@@ -199,4 +181,3 @@
 - [ ] Smartwatch-Based Working Memory Probe  
 - [ ] Gamified Goalkeeper Prediction Task  
 - [ ] App-based Delay Discounting / Stroop
-
