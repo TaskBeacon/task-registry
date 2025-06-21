@@ -1,70 +1,222 @@
-# Potential Tasks to Add
+# Taks list
+
+## Recent todo list
+- [x] Dot Probe Task
+- [x] N-back
+- [x] Monetary Incentive Delay Task (MID)
+- [x] Stop Signal Task (SST)
+- [x] Movie Watching Task
+- [x] Rest
+- [x] Probablistic Learning Task
+- [ ] Baloon Analogue Risk Task (BART)
+- [ ] Flanker
+- [ ] GO/No-Go Task
+- [ ] Stroop
+- [ ] Card sorting
+- [ ] Delay Discounting Task  
+- [ ] Oddball/MMN  
+- [ ] EEfRT (Effort-Expenditure for Rewards Task) 
+- [ ] One‑Armed Bandit
+- [ ] Drifting Double‑Bandit  
+- [ ] Rutledge Passive Lottery Task  
+- [ ] Cyberball  
+- [ ] AX‑CPT / DPX  
+- [ ] Ultimatum Game  
+- [ ] Trust Game  
+- [ ] Dictator Game  
+- [ ] McGurk Effect 
+- [ ] Task Switching Paradigm  
+- [ ] Weather Prediction Task  
+- [ ] Cyberball (social exclusion/inclusion)  
+- [ ] Cambridge Gambling Task 
+- [ ] Iowa Gambling Task 
+- [ ] Loss Aversion / Framing Task 
+- [ ] Antisaccade Task  
+- [ ] Visual Search  
+
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
 > Some task names, labels, or categorizations may be broad, approximate, or inconsistent across studies.  
 > The purpose here is to **illustrate possible options** for further selection and refinement.  
 > We may choose to **include a subset of these tasks** in our final battery, but **not all** will be adopted.
 
-## Rdoc
+## RDoC – Recommended Task Checklists (Compact Format)
+
 ### Negative Valence Systems
+**Acute Threat (Fear)**  
+- [ ] Behavioral Approach Test  
+- [ ] CO₂ Challenge  
+- [ ] Cold Pressor Test  
+- [ ] Fear Conditioning  
+- [ ] Stranger Tests  
+- [ ] Trier Social Stress Test  
 
-| Construct                     | Suggested Paradigms |
-|------------------------------|---------------------|
-| Acute Threat (Fear)          | - [ ] Behavioral Approach Test<br>- [ ] CO₂ Challenge<br>- [ ] Cold Pressor Test<br>- [ ] Fear Conditioning<br>- [ ] Stranger Tests<br>- [ ] Trier Social Stress Test |
-| Potential Threat (Anxiety)   | - [ ] NPU (No shock, Predictable/Unpredictable shock) Task |
-| Frustrative Non-Reward       | - [ ] Lab‑TAB<br>- [ ] PSAP |
-| Sustained Threat             | *(none listed)* |
-| Loss                         | *(paradigms typically from workgroup)* |
+**Potential Threat (Anxiety)**  
+- [ ] NPU Threat Task  
 
+**Frustrative Non-Reward**  
+- [ ] Lab‑TAB  
+- [ ] PSAP  
+
+**Sustained Threat**  
+- *(none listed)*
+
+**Loss**  
+- *(paradigms typically from workgroup)*
+
+---
 
 ### Positive Valence Systems
 
-| Subconstruct                         | Suggested Paradigms |
-|--------------------------------------|---------------------|
-| Reward Anticipation                 | - [ ] Monetary Incentive Delay |
-| Initial Response to Reward          | - [ ] Simple Guessing Task |
-| Reward Satiation                    | - [ ] Fixed‑ratio Satiation Schedule |
-| Reward Learning & Habit             | - [ ] Drifting Double‑Bandit<br>- [ ] Classical Conditioning<br>- [ ] Probabilistic Reward Task<br>- [ ] Probabilistic Stimulus Selection Task<br>- [ ] Habit Learning Task / Devaluation Task |
-| Reward Prediction Error            | - [ ] Drifting Double‑Bandit<br>- [ ] Rutledge Passive Lottery Task |
-| Reward Valuation (Probability)      | - [ ] Probability Choice Task<br>- [ ] Willingness-to-Pay Task |
-| Delay (Discounting)                 | - [ ] Delay Discounting Task |
-| Effort                              | - [ ] EEfRT (Effort-Expenditure for Rewards Task) |
+**Reward Anticipation**  
+- [x] Monetary Incentive Delay  
 
+**Initial Response to Reward**  
+- [ ] Simple Guessing Task  
+
+**Reward Satiation**  
+- [ ] Fixed‑ratio Satiation Schedule  
+
+**Reward Learning & Habit**  
+- [ ] Drifting Double‑Bandit  
+- [ ] Classical Conditioning  
+- [ ] Probabilistic Reward Task  
+- [ ] Probabilistic Stimulus Selection  
+- [ ] Habit Learning / Devaluation Task  
+
+**Reward Prediction Error**  
+- [ ] Drifting Double‑Bandit  
+- [ ] Rutledge Passive Lottery Task  
+
+**Reward Valuation (Probability)**  
+- [ ] Probability Choice Task  
+- [ ] Willingness-to-Pay Task  
+
+**Delay (Discounting)**  
+- [ ] Delay Discounting Task  
+
+**Effort**  
+- [ ] EEfRT (Effort-Expenditure for Rewards Task)  
+
+---
 
 ### Cognitive Systems
+**Attention**  
+- [ ] ANT  
+- [ ] Attentional Blink  
+- [ ] Dichotic Listening  
+- [ ] Distraction/Capture  
+- [ ] Dual-task  
+- [ ] Visual Search  
+- [ ] Flanker  
+- [ ] Stroop  
+- [ ] Go/No‑Go  
+- [ ] Simon  
 
-| Construct / Subconstruct       | Suggested Paradigms |
-|--------------------------------|---------------------|
-| Attention                      | - [ ] ANT<br>- [ ] Attentional Blink<br>- [ ] Dichotic Listening<br>- [ ] Distraction/Capture<br>- [ ] Dual-task Paradigms<br>- [ ] Visual Search<br>- [ ] Flanker<br>- [ ] Stroop<br>- [ ] Go/No‑Go<br>- [ ] Simon |
-| Visual Perception              | - [ ] Backward Masking<br>- [ ] Biological Motion<br>- [ ] Bistability<br>- [ ] Contour Integration<br>- [ ] Contrast Sensitivity<br>- [ ] Object Recognition<br>- [ ] Emotion Expression Identification<br>- [ ] Face ID<br>- [ ] Figure–Ground Tasks<br>- [ ] Visual Illusions |
-| Auditory Perception            | - [ ] Auditory Masking<br>- [ ] Scene Perception<br>- [ ] Oddball/MMN<br>- [ ] Tone Detection<br>- [ ] Speech-in-Noise<br>- [ ] McGurk |
-| Declarative Memory             | - [ ] Acquired Equivalence<br>- [ ] Delayed Recall<br>- [ ] Paired-Associate<br>- [ ] Transitive Inference |
-| Language                       | - [ ] Naming Tasks<br>- [ ] Sentence Comprehension<br>- [ ] Discourse Coherence<br>- [ ] Eye/Mouse Tracking<br>- [ ] Semantic Relation Detection |
-| Cognitive Control              | - [ ] AX‑CPT/DPX<br>- [ ] Task Switching<br>- [ ] Stroop<br>- [ ] Simon<br>- [ ] Flanker<br>- [ ] Go/No‑Go<br>- [ ] Stop‑Signal<br>- [ ] Antisaccade<br>- [ ] Badre/Koechlin Paradigms |
-| Working Memory                 | - [ ] N‑Back<br>- [ ] Sternberg<br>- [ ] Change Detection<br>- [ ] Complex/Simple Span Tasks<br>- [ ] Self-Ordered Pointing<br>- [ ] Letter–Number Sequencing<br>- [ ] Keep‑Track |
+**Visual Perception**  
+- [ ] Backward Masking  
+- [ ] Biological Motion  
+- [ ] Bistability  
+- [ ] Contour Integration  
+- [ ] Contrast Sensitivity  
+- [ ] Object Recognition  
+- [ ] Emotion Expression Identification  
+- [ ] Face ID  
+- [ ] Figure–Ground  
+- [ ] Visual Illusions  
 
+**Auditory Perception**  
+- [ ] Auditory Masking  
+- [ ] Scene Perception  
+- [ ] Oddball/MMN  
+- [ ] Tone Detection  
+- [ ] Speech-in-Noise  
+- [ ] McGurk Effect  
+
+**Declarative Memory**  
+- [ ] Acquired Equivalence  
+- [ ] Delayed Recall  
+- [ ] Paired-Associate  
+- [ ] Transitive Inference  
+
+**Language**  
+- [ ] Naming  
+- [ ] Sentence Comprehension  
+- [ ] Discourse Coherence  
+- [ ] Eye/Mouse Tracking  
+- [ ] Semantic Relation Detection  
+
+**Cognitive Control**  
+- [ ] AX‑CPT / DPX  
+- [ ] Task Switching  
+- [ ] Stroop  
+- [ ] Simon  
+- [ ] Flanker  
+- [ ] Go/No‑Go  
+- [ ] Stop‑Signal  
+- [ ] Antisaccade  
+- [ ] Badre/Koechlin Paradigms  
+
+**Working Memory**  
+- [ ] N‑Back  
+- [ ] Sternberg  
+- [ ] Change Detection  
+- [ ] Complex/Simple Span  
+- [ ] Self-Ordered Pointing  
+- [ ] Letter–Number Sequencing  
+- [ ] Keep‑Track  
+
+---
 
 ### Social Processes
 
-| Construct / Subconstruct                         | Suggested Paradigms |
-|--------------------------------------------------|---------------------|
-| Affiliation & Attachment                         | - [ ] Cyberball<br>- [ ] One‑Armed Bandit |
-| Reception (Facial Communication)                 | - [ ] Penn ER‑40<br>- [ ] Gaze‑Cuing |
-| Production (Facial Communication)                | *(none listed)* |
-| Reception (Non-Facial Communication)             | - [ ] Multimodal Paradigms (e.g. TASIT) |
-| Production (Non-Facial Communication)            | - [ ] Multimodal Paradigms |
-| Self‑Knowledge                                   | - [ ] Self‑Referential Memory Paradigm |
-| Animacy Perception                               | - [ ] Point‑Light Displays |
-| Action Perception                                | - [ ] How/Why Task |
-| Understanding Mental States                      | - [ ] Hinting Task<br>- [ ] Reading the Mind in the Eyes |
+**Affiliation & Attachment**  
+- [ ] Cyberball  
+- [ ] One‑Armed Bandit  
+
+**Reception (Facial Communication)**  
+- [ ] Penn ER‑40  
+- [ ] Gaze Cuing  
+
+**Production (Facial Communication)**  
+- *(none listed)*
+
+**Reception (Non-Facial Communication)**  
+- [ ] TASIT / Multimodal Paradigms  
+
+**Production (Non-Facial Communication)**  
+- [ ] Multimodal Paradigms  
+
+**Self‑Knowledge**  
+- [ ] Self‑Referential Memory Paradigm  
+
+**Animacy Perception**  
+- [ ] Point‑Light Displays  
+
+**Action Perception**  
+- [ ] How/Why Task  
+
+**Understanding Mental States**  
+- [ ] Hinting Task  
+- [ ] Reading the Mind in the Eyes  
+
+---
 
 ### Arousal & Regulatory Systems
 
-| Construct                 | Suggested Paradigms |
-|---------------------------|----------------------|
-| Arousal                   | - [ ] Psychomotor Vigilance Task<br>- [ ] Heart‑Rate Variability<br>- [ ] Pupillometry<br>- [ ] Cardiac Pre-Ejection Period<br>- [ ] Electrodermal Activity (EDA) |
-| Circadian Rhythms         | *(paradigms from workgroup report)* |
-| Sleep & Wakefulness       | *(paradigms from workgroup report)* |
+**Arousal**  
+- [ ] Psychomotor Vigilance  
+- [ ] Heart Rate Variability  
+- [ ] Pupillometry  
+- [ ] Cardiac Pre-Ejection Period  
+- [ ] Electrodermal Activity (EDA)  
+
+**Circadian Rhythms**  
+- *(from workgroup report)*
+
+**Sleep & Wakefulness**  
+- *(from workgroup report)*
+
 
 
 ---
