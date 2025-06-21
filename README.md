@@ -58,8 +58,6 @@
 | Action Perception                                | - [ ] How/Why Task |
 | Understanding Mental States                      | - [ ] Hinting Task<br>- [ ] Reading the Mind in the Eyes |
 
----
-
 ### Arousal & Regulatory Systems
 
 | Construct                 | Suggested Paradigms |
