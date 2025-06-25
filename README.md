@@ -30,10 +30,7 @@ your-task/
 ├── README.md            # generated via task2doc or manually written
 ```
 
-You can scaffold this using:
-```bash
-psyflow init
-```
+> Note: psyflow command line tool psyflow-init (or the taps() function) helps researchers quickly generate a project skeleton with these components pre-wired.
 
 #### 2. Push to Your Own GitHub Repo (if not already)
 Create a public repository under your GitHub account (e.g., `stroop`), then push your files:
