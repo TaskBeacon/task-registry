@@ -18,8 +18,5 @@ For more detailed information on versioning, variants, and our contribution proc
 
 `TaskBeacon Versioning Guide <https://taskbeacon.github.io/versioning.html>`_
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Task Library
 
-   tasks_index
+..include::  tasks_index.rst
