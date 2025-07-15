@@ -34,7 +34,7 @@ html_theme_options = {
     "sidebar_hide_name": True,
     # "light_logo": "logo-light.png",
     # "dark_logo": "logo-dark.png",
-    "source_repository": "https://github.com/TaskBeacon/task_index/",
+    "source_repository": "https://github.com/TaskBeacon/task-registry/",
     "source_branch": "main",
     "source_directory": "source/",
 }
