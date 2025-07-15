@@ -65,8 +65,11 @@ templates_path = ["_templates"]
 html_sidebars = {
     "**": [
         "sidebar/brand.html",
+        "sidebar/search.html",       # pinned
+        "sidebar/scroll-start.html", # begin scrollable
         "sidebar/entries.html",  
         "sidebar/navigation.html",    
+        "sidebar/scroll-end.html",   # end scrollable
         # any further items here would float on the left again
     ]
 }
