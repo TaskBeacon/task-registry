@@ -1,8 +1,7 @@
-
-Welcome to the Task Index! 
 This site provides an organized index of available cognitive tasks.
 
-.. include:: tasks_index.rst
+.. toctree::
+   :maxdepth: 1
+   :caption: Task Library
 
-
-
+   tasks_index
