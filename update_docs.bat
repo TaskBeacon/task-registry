@@ -1,7 +1,7 @@
-@echo off
-echo Cleaning up old task files...
-if exist source\Tasks rmdir /s /q source\Tasks
-mkdir source\Tasks
+@REM @echo off
+@REM echo Cleaning up old task files...
+@REM if exist source\Tasks rmdir /s /q source\Tasks
+@REM mkdir source\Tasks
 
 echo.
 echo Running fetch_tasks.py...
