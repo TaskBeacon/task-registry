@@ -6,4 +6,7 @@ Task Library
    :caption: Tasks
 
    Tasks/EmoDot_index
+   Tasks/MID_index
+   Tasks/Movie_index
+   Tasks/Rest_index
    Tasks/SST_index

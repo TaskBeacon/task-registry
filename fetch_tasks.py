@@ -2,7 +2,7 @@
 import os, json, time, urllib.request, urllib.error, re
 
 ORG               = "TaskBeacon"
-EXCLUDED_REPOS    = {"taskbeacon.github.io", ".github", "task_index","nback","MID","Rest","PRL",'Movie','psyflow'}
+EXCLUDED_REPOS    = {"taskbeacon.github.io", ".github", "task-registry","nback","PRL",'psyflow'}
 MAX_RETRIES       = 3           # attempts per download
 SLEEP_BETWEEN_SEC = 2           # wait between retries
 
