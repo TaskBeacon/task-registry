@@ -70,7 +70,6 @@ html_sidebars = {
         "sidebar/entries.html",  
         "sidebar/navigation.html",    
         "sidebar/scroll-end.html",   # end scrollable
-        # any further items here would float on the left again
     ]
 }
 
@@ -79,14 +78,3 @@ html_static_path = ["_static"]
 html_css_files = [
     "custom.css",
 ]
-
-
-# ② inject meta.json (if present) into Jinja context
-def add_task_meta(app, pagename, templatename, context, doctree):
-    md_path   = pathlib.Path(app.srcdir) / (pagename + ".md")
-    meta_path = md_path.with_suffix(".meta.json")
-    if meta_path.exists():
-        context["task_meta"] = json.loads(meta_path.read_text())
-
-def setup(app):
-    app.connect("html-page-context", add_task_meta)

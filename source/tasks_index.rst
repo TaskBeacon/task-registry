@@ -1,6 +1,3 @@
-Task Library
-============
-
 .. toctree::
    :maxdepth: 1
 

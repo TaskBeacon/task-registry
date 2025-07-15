@@ -141,7 +141,6 @@ for repo in sorted(task_repos):
 # Build the global task library index
 master_rst = os.path.join("source", "tasks_index.rst")
 with open(master_rst, "w", encoding="utf-8") as f:
-    f.write("Task Library\n============\n\n")
     f.write(".. toctree::\n   :maxdepth: 1\n\n")
     for entry in sorted(master_index_entries):
         f.write(f"{entry}\n")
