@@ -121,7 +121,7 @@ for repo in sorted(task_repos):
     # If there's only one variant, link directly to it in the master index.
     if len(variants) == 1:
         variant_name = next(iter(variants.keys()))
-        master_index_entries.append(f"   {main_title} <Tasks/{repo}/{variant_name}>")
+        master_index_entries.append(f"   {main_title} </Tasks/{repo}/{variant_name}>")
         print(f"   - Added direct link for single-variant task: {main_title}")
     
     # If there are multiple variants, create a separate index file for them.
@@ -133,7 +133,7 @@ for repo in sorted(task_repos):
             for v_name, v_data in sorted(variants.items()):
                 f.write(f"   {v_data['title']} <{repo}/{v_name}>\n")
         
-        master_index_entries.append(f"   {main_title} <Tasks/{repo}_index>")
+        master_index_entries.append(f"   {main_title} </Tasks/{repo}_index>")
         print(f"   - Wrote {rst_path} for multi-variant task: {main_title}")
 
 
