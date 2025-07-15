@@ -142,7 +142,7 @@ for repo in sorted(task_repos):
 master_rst = os.path.join("source", "tasks_index.rst")
 with open(master_rst, "w", encoding="utf-8") as f:
     f.write(".. toctree::\n   :maxdepth: 1\n\n")
-    f.write("   Index <index>\n\n")
+    # f.write("   Index <index>\n\n")
     for entry in sorted(master_index_entries):
         f.write(f"{entry}\n")
 print(f"\n+ Wrote master index {master_rst}")
