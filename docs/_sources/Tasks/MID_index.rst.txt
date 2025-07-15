@@ -1,9 +1,9 @@
-MID variants
-============
+Monetary Incentive Delay (MID) Task
+===================================
 
 .. toctree::
    :maxdepth: 1
    :caption: Variants
 
-   MID/main
-   MID/test_show
+   Monetary Incentive Delay (MID) Task <MID/main>
+   Monetary Incentive Delay (MID) Task <MID/test_show>
