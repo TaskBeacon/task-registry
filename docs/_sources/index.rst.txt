@@ -11,9 +11,7 @@ We welcome contributions to our task library! Here's a brief overview of how to 
 
 **Proposing New Tasks:** To propose a new task, please use the "New Task Proposal" issue template in our `.github` repository.
 
-For more detailed information on versioning, variants, and our contribution process, please see our full documentation:
-
-`TaskBeacon Versioning Guide <https://taskbeacon.github.io/versioning.html>`_
+For more detailed information on versioning, variants, and our contribution process, please see our full documentation: `TaskBeacon Versioning Guide <https://taskbeacon.github.io/versioning.html>`_
 
 
 .. toctree::
@@ -27,4 +25,4 @@ For more detailed information on versioning, variants, and our contribution proc
 
 This project is licensed under the `MIT License <https://github.com/TaskBeacon/taskbeacon.github.io/blob/main/LICENSE>`_.
 
-All components of this repository—including the core **PsyFlow** library, individual **tasks**, and their **variants**—are released under the MIT License, unless explicitly stated otherwise in a specific folder.
+All components of this repository—including the core **psyFlow** library, individual **tasks**, and their **variants**—are released under the MIT License, unless explicitly stated otherwise in a specific folder.
