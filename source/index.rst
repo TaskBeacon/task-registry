@@ -1,10 +1,7 @@
-Welcome to the TaskBeacon Task Registry!
-=========================================
+Welcome to the TaskBeacon Task Library
+=======
 
 This site provides an organized index of available cognitive tasks.
-
-Contributing to the Task Registry
----------------------------------
 
 We welcome contributions to our task library! Here's a brief overview of how to get involved.
 
@@ -24,3 +21,10 @@ For more detailed information on versioning, variants, and our contribution proc
    :caption: Task Library
 
    tasks_index
+
+
+.. _license:
+
+This project is licensed under the `MIT License <https://github.com/TaskBeacon/taskbeacon.github.io/blob/main/LICENSE>`_.
+
+All components of this repository—including the core **PsyFlow** library, individual **tasks**, and their **variants**—are released under the MIT License, unless explicitly stated otherwise in a specific folder.
