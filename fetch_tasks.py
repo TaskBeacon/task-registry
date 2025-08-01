@@ -2,7 +2,7 @@
 import os, json, time, urllib.request, urllib.error, re
 
 ORG               = "TaskBeacon"
-EXCLUDED_REPOS    = {"task-registry", ".github","psyflow","psyflow-mcp","community","taskbeacon.github.io"}
+EXCLUDED_REPOS    = {"task-registry", ".github","psyflow","taskbeacon-mcp","community","taskbeacon.github.io"}
 MAX_RETRIES       = 3           # attempts per download
 SLEEP_BETWEEN_SEC = 2           # wait between retries
 
@@ -81,28 +81,22 @@ for repo in sorted(task_repos):
     repo_dir = os.path.join(ROOT_TASKS_DIR, repo)
     os.makedirs(repo_dir, exist_ok=True)
 
-    variants = {} # safe_name -> {md_path, meta_path, title}
+    variants = {} # safe_name -> {md_path, title}
 
     for br in branches:
         safe_name  = safe_branch(br)
         dest_md    = os.path.join(repo_dir, f"{safe_name}.md")
-        dest_meta  = os.path.join(repo_dir, f"{safe_name}.meta.json")
+
         
         readme_url = RAW_URL.format(org=ORG, repo=repo, branch=br) + "README.md"
-        meta_url   = RAW_URL.format(org=ORG, repo=repo, branch=br) + "meta.json"
+
 
         print(f"  -> Fetching README.md for branch {br}")
         if download(readme_url, dest_md):
             title = get_md_title(dest_md, default=br)
             print(f"    + Saved as {dest_md} (Title: '{title}')")
             variants[safe_name] = {"md_path": dest_md, "title": title}
-            
-            print(f"  -> Fetching meta.json for branch {br}")
-            if download(meta_url, dest_meta):
-                variants[safe_name]["meta_path"] = dest_meta
-                print(f"    + meta.json saved as {dest_meta}")
-            else:
-                print(f"    - meta.json not found for branch {br}.")
+
         else:
             print(f"    - README.md not found for branch {br}, skipping.")
 

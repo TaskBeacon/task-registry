@@ -12,5 +12,5 @@
    Probabilistic Reversal Learning (PRL) Task </Tasks/PRL/main>
    Resting-state Task (EC+EO) </Tasks/Rest/main>
    Simon Task </Tasks/Simon/main>
-   Stop-Signal Task (SST) </Tasks/SST/main>
+   Stop-Signal Task (SST) </Tasks/SST_index>
    Stroop Task </Tasks/Stroop/main>
