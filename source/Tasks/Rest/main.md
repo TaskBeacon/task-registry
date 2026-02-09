@@ -4,7 +4,7 @@
 |----------------------|------------------------------|
 | Name                 |Resting state                 |
 | Version              |main |
-| URL / Repository     |  https://github.com/TaskBeacon/REST |
+| URL / Repository     |  https://github.com/TaskBeacon/T000010-rest |
 | Short Description    | EC + EO                            |
 | Created By           | Zhipeng Cao (zhipeng30@foxmail.com)    |
 | Date Updated         | 2025/06/21  |
@@ -44,7 +44,7 @@ This task is a resting‐state paradigm with two conditions—eyes closed (EC) a
 
 | Step                          | Description                                                                                                                                                                                                              |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Initialize trial data         | Create `trial_data = {"condition": condition}` to record the current condition (“EC” or “EO”).                                                                                                                           |
+| Initialize trial data         | Create `trial_data = {"condition": condition}` to record the current condition (“EC�?or “EO�?.                                                                                                                           |
 | Create StimUnit factory       | Use `make_unit = partial(StimUnit, win=win, kb=kb, triggersender=trigger_sender)` to simplify subsequent stimulus calls.                                                                                                 |
 | Present condition instruction | Call `make_unit(unit_label='inst')`; add `stim_bank.get(f"{condition}_instruction")` and its voice (`..._instruction_voice`); then `.show()` to display until a keypress.                                            |
 | Present stimulus              | Call `make_unit(unit_label='stim')`; add `stim_bank.get(f"{condition}_stim")` (EC_stim or EO_stim); then `.show(duration=settings.{condition}_duration, onset_trigger=settings.triggers.get(f"{condition}_onset"), offset_trigger=settings.triggers.get(f"{condition}_offset"))`; finally `.to_dict(trial_data)` to log timestamps. |
@@ -58,8 +58,8 @@ This task is a resting‐state paradigm with two conditions—eyes closed (EC) a
 |-------------|----------------------------------------------------|
 | subject_id  | Three-digit integer identifier between 101 and 999 |
 | subname     | Subject’s name in Pinyin                           |
-| age         | Integer age in years (5–60)                        |
-| gender      | Choice: “Male” or “Female”                         |
+| age         | Integer age in years (5�?0)                        |
+| gender      | Choice: “Male�?or “Female�?                        |
 
 ### b. Window Settings
 
@@ -77,12 +77,12 @@ This task is a resting‐state paradigm with two conditions—eyes closed (EC) a
 
 | Name                  | Type     | Description                                                                                                                                                                                                                                               |
 |-----------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EO_stim               | text     | A black “+” fixation cross shown at screen center.                                                                                                                                                                                                        |
-| EC_stim               | text     | A black text “请闭眼” (“please close your eyes”) shown at screen center.                                                                                                                                                                                  |
-| general_instruction   | textbox  | Initial instructions in Chinese (【静息态任务说明】…), displayed centrally (font = SimHei, color = white, letterHeight = 0.78 deg, box size = [20, 5] deg); prompts participants to follow guidance and press space to start.                                      |
-| EC_instruction        | textbox  | Eyes-closed instructions in Chinese (“请您闭上眼睛…直到听到提示为止”), centrally displayed with same font, color, size, and units as above.                                                                                                                |
-| EO_instruction        | textbox  | Eyes-open instructions in Chinese (“请您睁开眼睛…直到听到提示为止”), centrally displayed with same properties.                                                                                                                                                |
-| good_bye              | textbox  | End-of-task screen in Chinese (“任务结束\n\n感谢您的参与\n请按【空格键】键退出”), centrally displayed with same font, color, letterHeight, and box size.                                                                                                  |
+| EO_stim               | text     | A black �?�?fixation cross shown at screen center.                                                                                                                                                                                                        |
+| EC_stim               | text     | A black text “请闭眼�?(“please close your eyes�? shown at screen center.                                                                                                                                                                                  |
+| general_instruction   | textbox  | Initial instructions in Chinese (【静息态任务说明】�?, displayed centrally (font = SimHei, color = white, letterHeight = 0.78 deg, box size = [20, 5] deg); prompts participants to follow guidance and press space to start.                                      |
+| EC_instruction        | textbox  | Eyes-closed instructions in Chinese (“请您闭上眼睛…直到听到提示为止�?, centrally displayed with same font, color, size, and units as above.                                                                                                                |
+| EO_instruction        | textbox  | Eyes-open instructions in Chinese (“请您睁开眼睛…直到听到提示为止�?, centrally displayed with same properties.                                                                                                                                                |
+| good_bye              | textbox  | End-of-task screen in Chinese (“任务结束\n\n感谢您的参与\n请按【空格键】键退出�?, centrally displayed with same font, color, letterHeight, and box size.                                                                                                  |
 
 ### d. Timing
 
@@ -105,4 +105,4 @@ This task is a resting‐state paradigm with two conditions—eyes closed (EC) a
 | EO_offset    | 21   |
 
 ## 4. Methods
-The experiment consists of one block containing four sequential rest trials: eyes closed (EC), eyes open (EO), eyes closed (EC), and eyes open (EO), each lasting 180 s for a total data collection time of 720 s (12 minutes).Participants first provide demographic information (ID, name in Pinyin, age, gender) via a modal form. After settings and triggers initialize, they view general task instructions in Chinese, followed by a 3‑second on‑screen countdown. Each trial begins with an on‑screen text instruction and its pre‑recorded voice version. Immediately afterward, the resting‑state stimulus (a central fixation cross for EO trials or the text “请闭眼” ("close your eyes") for EC trials) appears for exactly 180 s. The display window is set to 1920×1080 pixels in degrees of visual angle, with a gray background and a viewing distance of 72 cm. 
+The experiment consists of one block containing four sequential rest trials: eyes closed (EC), eyes open (EO), eyes closed (EC), and eyes open (EO), each lasting 180 s for a total data collection time of 720 s (12 minutes).Participants first provide demographic information (ID, name in Pinyin, age, gender) via a modal form. After settings and triggers initialize, they view general task instructions in Chinese, followed by a 3‑second on‑screen countdown. Each trial begins with an on‑screen text instruction and its pre‑recorded voice version. Immediately afterward, the resting‑state stimulus (a central fixation cross for EO trials or the text “请闭眼�?("close your eyes") for EC trials) appears for exactly 180 s. The display window is set to 1920×1080 pixels in degrees of visual angle, with a gray background and a viewing distance of 72 cm. 

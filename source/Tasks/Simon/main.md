@@ -4,7 +4,7 @@
 |----------------------|--------------------------------------------|
 | Name                 | Simon Task                                 |
 | Version              | main (1.0)                                 |
-| URL / Repository     | https://github.com/TaskBeacon/SimonTask    |
+| URL / Repository     | https://github.com/TaskBeacon/T000011-simon    |
 | Short Description    | A task measuring response conflict and cognitive control. |
 | Created By           | Zhipeng Cao (zhipeng30@foxmail.com)        |
 | Date Updated         | 2025/07/25                                 |
@@ -72,7 +72,7 @@ Standard PsychoPy window settings for fullscreen display.
 | blue_right               | circle    | A blue circle presented on the right.                 |
 | correct_feedback         | textbox   | "正确" (Correct) in white.                            |
 | incorrect_feedback       | textbox   | "错误" (Incorrect) in white.                            |
-| no_response_feedback     | textbox   | "未反应" (No response) in white.                          |
+| no_response_feedback     | textbox   | "未反�? (No response) in white.                          |
 | instruction_text         | textbox   | Instructions explaining the task.                     |
 | block_break              | text      | Inter-block message showing accuracy and RT.          |
 | good_bye                 | text      | Final thank you message.                              |
@@ -84,7 +84,7 @@ Standard PsychoPy window settings for fullscreen display.
 | fixation              | 0.5                | fixation_duration  |
 | stimulus              | 1.0 (max response time) | stim_duration      |
 | feedback              | 0.5                | feedback_duration  |
-| iti                   | random 0.8–1.2     | iti_duration |
+| iti                   | random 0.8�?.2     | iti_duration |
 
 ### e. Triggers
 

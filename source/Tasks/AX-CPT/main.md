@@ -4,7 +4,7 @@
 |---|---|
 | Name | AX-CPT Task |
 | Version | main (1.0) |
-| URL / Repository | https://github.com/TaskBeacon/AX-CPT |
+| URL / Repository | https://github.com/TaskBeacon/T000001-ax-cpt |
 | Short Description | A task measuring cognitive control, context processing, and goal maintenance. |
 | Created By | Zhipeng Cao (zhipeng30@foxmail.com) |
 | Date Updated | 2025/07/25 |
@@ -66,7 +66,7 @@ This task is an AX-Continuous Performance Test (AX-CPT) designed to assess cogni
 | probe_Y | text | The probe letter 'Y'. |
 | correct_feedback | text | "正确" (Correct) in white. |
 | incorrect_feedback | text | "错误" (Incorrect) in white. |
-| no_response_feedback | text | "未反应" (No response) in white. |
+| no_response_feedback | text | "未反�? (No response) in white. |
 | instruction_text | textbox | Instructions explaining the task. |
 | instruction_text_voice | voice | Voice instructions for the task. |
 | block_break | text | Feedback shown between blocks. |
@@ -80,7 +80,7 @@ This task is an AX-Continuous Performance Test (AX-CPT) designed to assess cogni
 | isi | 0.5 | isi_duration |
 | probe | 1.0 (max response time) | probe_duration |
 | feedback | 0.5 | feedback_duration |
-| iti | random 0.8–1.2 | iti_duration |
+| iti | random 0.8�?.2 | iti_duration |
 
 ### e. Triggers
 | Event | Code |

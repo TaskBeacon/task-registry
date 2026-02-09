@@ -4,7 +4,7 @@
 |----------------------|--------------------------------------------|
 | Name                 | Eriksen Flanker Task                       |
 | Version              | main (1.0)                                 |
-| URL / Repository     | https://github.com/TaskBeacon/Flanker      |
+| URL / Repository     | https://github.com/TaskBeacon/T000004-flanker      |
 | Short Description    | A task measuring response inhibition and selective attention. |
 | Created By           | Zhipeng Cao (zhipeng30@foxmail.com)        |
 | Date Updated         | 2025/07/24                                 |
@@ -84,7 +84,7 @@ Standard PsychoPy window settings for fullscreen display.
 | fixation              | 0.5                | fixation_duration  |
 | stimulus              | 1.0 (max response time) | stim_duration      |
 | feedback              | 0.5                | feedback_duration  |
-| iti                   | random 0.8â€“1.2     | iti_duration |
+| iti                   | random 0.8â€?.2     | iti_duration |
 
 ### e. Triggers
 

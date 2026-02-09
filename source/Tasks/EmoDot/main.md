@@ -4,7 +4,7 @@
 |----------------------|------------------------------|
 | Name                 | Emotional Dot-Probe Task (EmoDot) |
 | Version              | main (1.0)                          |
-| URL / Repository     | https://github.com/TaskBeacon/EmoDot   |
+| URL / Repository     | https://github.com/TaskBeacon/T000003-emodot   |
 | Short Description    | A task for assessing attentional bias toward emotional facial stimuli |
 | Created By           | Zhipeng Cao (zhipeng30@foxmail.com)          |
 | Date Updated         | 2025/06/22      |
@@ -47,9 +47,9 @@ The Emotional Dot-Probe (EmoDot) task assesses attentional biases toward emotion
 
 | Step                | Description                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
-| Fixation            | Present fixation cross (0.8â€“1.0s) with trigger                              |
+| Fixation            | Present fixation cross (0.8â€?.0s) with trigger                              |
 | Cue Display         | Show pair of face images (left/right) for 0.5s with trigger                 |
-| Interval            | Brief fixation interval (0.4â€“0.6s)                                          |
+| Interval            | Brief fixation interval (0.4â€?.6s)                                          |
 | Target              | Show white circle target on left or right; collect response (up to 1.0s)    |
 | Response Logging    | Record accuracy, RT, and target location                                    |
 
@@ -74,9 +74,9 @@ These logic components collectively ensure:
 
 | Field       | Meaning                        |
 |-------------|--------------------------------|
-| subject_id  | Participant ID (101â€“999)       |
+| subject_id  | Participant ID (101â€?99)       |
 | subname     | Participant name (pinyin)      |
-| age         | Age (5â€“60)                     |
+| age         | Age (5â€?0)                     |
 | gender      | Gender (Male/Female)           |
 
 ### b. Window Settings
@@ -108,9 +108,9 @@ These logic components collectively ensure:
 
 | Phase              | Duration (s)     |
 |--------------------|------------------|
-| fixation           | random 0.8â€“1.0   |
+| fixation           | random 0.8â€?.0   |
 | cue display        | 0.5              |
-| interval           | random 0.4â€“0.6   |
+| interval           | random 0.4â€?.6   |
 | target             | 1.0              |
 
 ### e. Triggers
@@ -120,9 +120,9 @@ These logic components collectively ensure:
 | Task Start             | 98           |
 | Task End               | 99           |
 | Block Start/End        | 198 / 199    |
-| Fixation Onset         | 11â€“201       |
-| Cue Onset              | 12â€“202       |
-| Target Onset           | 13â€“203       |
+| Fixation Onset         | 11â€?01       |
+| Cue Onset              | 12â€?02       |
+| Target Onset           | 13â€?03       |
 | Key Press              | 68           |
 | No Response            | 69           |
 
@@ -130,14 +130,14 @@ These logic components collectively ensure:
 
 ## 4. Methods (for academic publication)
 
-Participants performed a computerized emotional dot-probe task designed to probe attentional biases toward emotional facial expressions. Each trial began with a fixation cross (0.8â€“1.0 seconds), followed by a pair of face stimuli (one emotionalâ€”positive or negativeâ€”and one neutral), presented side by side for 0.5 seconds. After a brief inter-stimulus interval (0.4â€“0.6 seconds), a target dot appeared on either the left or right side of the screen. Participants were instructed to respond as quickly and accurately as possible by pressing the â€œFâ€ key for left and â€œJâ€ for right.
+Participants performed a computerized emotional dot-probe task designed to probe attentional biases toward emotional facial expressions. Each trial began with a fixation cross (0.8â€?.0 seconds), followed by a pair of face stimuli (one emotionalâ€”positive or negativeâ€”and one neutral), presented side by side for 0.5 seconds. After a brief inter-stimulus interval (0.4â€?.6 seconds), a target dot appeared on either the left or right side of the screen. Participants were instructed to respond as quickly and accurately as possible by pressing the â€œFâ€?key for left and â€œJâ€?for right.
 
 The experimental conditions conterbalanced the emotional content (positive, negative, or neutral), the gender of the faces (male/female), and the target location (left/right). A pool of facial images was pre-organized by emotion and gender categories and dynamically sampled to prevent stimulus repetition. Each image pair was randomly drawn per trial while satisfying the specified emotion/gender constraints.
 
 The experiment consisted of **3 blocks** with **60 trials each**, totaling **180 trials**. Trial types were fully randomized using a blocked condition design. At the end of each block, participants received feedback about their hit rate (i.e., correct target detections). 
 
 ## 5. References
->MacLeod, C., Mathews, A., & Tata, P. (1986). Attentional bias in emotional disorders. Journal of Abnormal Psychology, 95, 15â€“20.
+>MacLeod, C., Mathews, A., & Tata, P. (1986). Attentional bias in emotional disorders. Journal of Abnormal Psychology, 95, 15â€?0.
 
 >Van Rooijen, R., Ploeger, A., & Kret, M. E. (2017). The dot-probe task to measure emotional attention: A suitable measure in comparative studies?. Psychonomic bulletin & review, 24, 1686-1717.
 
