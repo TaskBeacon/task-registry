@@ -49,9 +49,9 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 26. [ ] Two-Armed Bandit
 27. [ ] Probabilistic Reward Task
 28. [ ] Probabilistic Stimulus Selection
-29. [ ] Continuous Performance Task (CPT)
+29. removed
 30. [ ] Psychomotor Vigilance- Probabilistic Stimulus Selection
-31. [ ] Sternberg Working Memory
+31. [x] Sternberg Working Memory
 32. [ ] Fixed-ratio Satiation Schedule
 33. [ ] Trier Social Stress Test (TSST)
 34. [ ] Temporal Bisection Task
