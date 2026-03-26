@@ -102,9 +102,9 @@
 ### Cognitive Systems
 **Attention**  
 - [ ] ANT  
-- [ ] Attentional Blink  
+- [x] Attentional Blink  
 - [ ] Dichotic Listening  
-- [ ] Distraction/Capture  
+- [x] Distraction/Capture  
 - [ ] Dual-task  
 - [ ] Visual Search  
 - [ ] Flanker  
@@ -304,7 +304,7 @@ Categorized by Primary Construct / Domain
 
 
 ### Attention, Timing, Sensorimotor
-- [ ] Attentional Blink  
+- [x] Attentional Blink  
 - [ ] Psychomotor Vigilance Task  
 - [ ] Go/No-Go  
 - [ ] Stop-Signal Task (standard & staircase)  

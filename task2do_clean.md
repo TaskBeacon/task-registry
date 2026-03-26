@@ -39,8 +39,8 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 14. [x] Antisaccade
 15. [x] Visual Search
 16. [x] Cyberball
-17. [ ] Attentional Blink  
-19. [ ] Distraction/Capture  
+17. [x] Attentional Blink  
+19. [x] Distraction/Capture  
 20. [ ] Badre/Koechlin Paradigms  
 21. [ ] Dual-task  
 22. [ ] Classical and Instrumental Conditioning  
