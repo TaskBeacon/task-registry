@@ -290,14 +290,14 @@ Categorized by Primary Construct / Domain
 - [ ] Iowa Gambling Task  
 - [ ] Balloon Analogue Risk Task (BART)  
 - [ ] Cambridge Gambling Task  
-- [ ] Game of Dice Task  
+- [x] Game of Dice Task
 - [ ] Delay Discounting Task  
 - [ ] Effort Expenditure for Reward Task (EEfRT)  
 - [ ] Two-Armed Bandit Tasks  
 - [ ] Probabilistic Stimulus Selection  
 - [ ] Classical and Instrumental Conditioning  
 - [ ] Loss Aversion / Framing Task  
-- [ ] Risk Perception Estimation  
+- [x] Risk Perception Estimation  
 - [ ] Willingness-to-Pay Task  
 - [ ] Passive Lottery Task (e.g., Rutledge)  
 - [ ] Reinforcement Learning with Devaluation  

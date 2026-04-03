@@ -44,8 +44,8 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 20. [ ] Badre/Koechlin Paradigms  
 21. [ ] Dual-task  
 22. [ ] Classical and Instrumental Conditioning  
-24. [ ] Risk Perception Estimation  
-25. [ ] Game of Dice Task
+24. [x] Risk Perception Estimation  
+25. [x] Game of Dice Task
 26. [ ] Two-Armed Bandit
 27. [ ] Probabilistic Reward Task
 28. [ ] Probabilistic Stimulus Selection
