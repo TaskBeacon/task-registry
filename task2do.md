@@ -80,7 +80,7 @@
 - [ ] Drifting Double‑Bandit  
 - [ ] Classical Conditioning  
 - [ ] Probabilistic Reward Task  
-- [ ] Probabilistic Stimulus Selection  
+- [x] Probabilistic Stimulus Selection  
 - [ ] Habit Learning / Devaluation Task  
 
 **Reward Prediction Error**  
@@ -294,7 +294,7 @@ Categorized by Primary Construct / Domain
 - [ ] Delay Discounting Task  
 - [ ] Effort Expenditure for Reward Task (EEfRT)  
 - [ ] Two-Armed Bandit Tasks  
-- [ ] Probabilistic Stimulus Selection  
+- [x] Probabilistic Stimulus Selection  
 - [ ] Classical and Instrumental Conditioning  
 - [ ] Loss Aversion / Framing Task  
 - [x] Risk Perception Estimation  

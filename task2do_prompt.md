@@ -58,6 +58,7 @@ Required per-task procedure:
    - update the queue
    - move to the next task
 9. If the task is already exists, then skip the task
+10. after above steps done, push both python and js version task to taskbeacon
 
 Critical constraints:
 - Do not process multiple tasks in parallel.

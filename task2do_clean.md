@@ -48,7 +48,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 25. [x] Game of Dice Task
 26. [ ] Two-Armed Bandit
 27. [ ] Probabilistic Reward Task
-28. [ ] Probabilistic Stimulus Selection
+28. [x] Probabilistic Stimulus Selection
 29. removed
 30. [ ] Psychomotor Vigilance- Probabilistic Stimulus Selection
 31. [x] Sternberg Working Memory
