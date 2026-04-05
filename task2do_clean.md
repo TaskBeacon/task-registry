@@ -54,7 +54,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 31. [x] Sternberg Working Memory
 32. [x] Fixed-ratio Satiation Schedule
 33. [x] Trier Social Stress Test (TSST)
-34. [ ] Temporal Bisection Task
+34. [x] Temporal Bisection Task
 35. [ ] Tapping Synchronization Task
 36. [ ] Hand Laterality Judgment
 37. [ ] Anti-Reach Task (motor inhibition)
