@@ -52,8 +52,8 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 29. removed
 30. [ ] Psychomotor Vigilance- Probabilistic Stimulus Selection
 31. [x] Sternberg Working Memory
-32. [ ] Fixed-ratio Satiation Schedule
-33. [ ] Trier Social Stress Test (TSST)
+32. [x] Fixed-ratio Satiation Schedule
+33. [x] Trier Social Stress Test (TSST)
 34. [ ] Temporal Bisection Task
 35. [ ] Tapping Synchronization Task
 36. [ ] Hand Laterality Judgment

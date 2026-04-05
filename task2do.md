@@ -48,7 +48,7 @@
 - [ ] Cold Pressor Test  
 - [ ] Fear Conditioning  
 - [ ] Stranger Tests  
-- [ ] Trier Social Stress Test  
+- [x] Trier Social Stress Test  
 
 **Potential Threat (Anxiety)**  
 - [ ] NPU Threat Task  
