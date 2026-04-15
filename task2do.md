@@ -312,7 +312,7 @@ Categorized by Primary Construct / Domain
 - [ ] Dichotic Listening  
 - [ ] Temporal Bisection Task  
 - [ ] Tapping Synchronization Task  
-- [ ] Hand Laterality Judgment  
+- [x] Hand Laterality Judgment  
 - [ ] Continuous Performance Task  
 - [ ] Visual Search  
 - [ ] Flanker Task  

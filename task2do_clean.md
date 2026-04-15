@@ -56,7 +56,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 33. [x] Trier Social Stress Test (TSST)
 34. [x] Temporal Bisection Task
 35. [x] Tapping Synchronization Task
-36. [ ] Hand Laterality Judgment
+36. [x] Hand Laterality Judgment
 37. [ ] Anti-Reach Task (motor inhibition)
 38. [ ] Language-based Visual World Paradigm
 39. [ ] Raven’s Progressive Matrices
