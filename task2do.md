@@ -317,7 +317,7 @@ Categorized by Primary Construct / Domain
 - [ ] Visual Search  
 - [ ] Flanker Task  
 - [ ] Motion Interference (biological vs scrambled)  
-- [ ] Anti-Reach Task (motor inhibition)
+- [x] Anti-Reach Task (motor inhibition)
 
 ### Ecological, Naturalistic, and Emerging Paradigms
 - [ ] Naturalistic Movie Watching (ISC)  

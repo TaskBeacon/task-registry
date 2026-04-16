@@ -57,7 +57,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 34. [x] Temporal Bisection Task
 35. [x] Tapping Synchronization Task
 36. [x] Hand Laterality Judgment
-37. [ ] Anti-Reach Task (motor inhibition)
+37. [x] Anti-Reach Task (motor inhibition)
 38. [ ] Language-based Visual World Paradigm
 39. [ ] Raven’s Progressive Matrices
 40. [ ] Matrix Reasoning
