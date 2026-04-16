@@ -63,7 +63,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 40. [x] Matrix Reasoning
 41. [ ] Mental Rotation Task
 42. [ ] Serial Reaction Time Task
-43. [ ] Paired-Associate Learning Task
+43. [x] Paired-Associate Learning Task
 44. [ ] Transitive Inference Task
 45. [ ] Acquired Equivalence
 46. [ ] Delayed Recall Task

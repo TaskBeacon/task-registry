@@ -261,7 +261,7 @@ Categorized by Primary Construct / Domain
 - [ ] Visual Paired Comparison Task  
 - [ ] Mnemonic Similarity Task (Pattern Separation)  
 - [ ] Transitive Inference Task  
-- [ ] Paired-Associate Learning Task  
+- [x] Paired-Associate Learning Task  
 - [ ] Serial Reaction Time Task  
 - [ ] Weather Prediction Task  
 - [ ] Contextual Fear Conditioning  
