@@ -58,9 +58,9 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 35. [x] Tapping Synchronization Task
 36. [x] Hand Laterality Judgment
 37. [x] Anti-Reach Task (motor inhibition)
-38. [ ] Language-based Visual World Paradigm
-39. [ ] Raven’s Progressive Matrices
-40. [ ] Matrix Reasoning
+38. [x] Language-based Visual World Paradigm
+39. [x] Raven’s Progressive Matrices
+40. [x] Matrix Reasoning
 41. [ ] Mental Rotation Task
 42. [ ] Serial Reaction Time Task
 43. [ ] Paired-Associate Learning Task

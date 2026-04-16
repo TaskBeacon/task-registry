@@ -241,8 +241,8 @@ Categorized by Primary Construct / Domain
 
 
 ##  Reasoning, Fluid Intelligence, Language
-- [ ] Raven's Progressive Matrices  
-- [ ] Matrix Reasoning  
+- [x] Raven's Progressive Matrices  
+- [x] Matrix Reasoning  
 - [ ] Mental Rotation Task  
 - [ ] Category Fluency / Verbal Fluency  
 - [ ] Naming Task  
@@ -250,7 +250,7 @@ Categorized by Primary Construct / Domain
 - [ ] Semantic Association or Relation Detection  
 - [ ] Discourse Coherence Judgment  
 - [ ] Verbal Analogies  
-- [ ] Language-based Visual World Paradigm  
+- [x] Language-based Visual World Paradigm  
 
 
 ###  Episodic Memory & Learning
