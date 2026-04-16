@@ -64,7 +64,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 41. [ ] Mental Rotation Task
 42. [ ] Serial Reaction Time Task
 43. [x] Paired-Associate Learning Task
-44. [ ] Transitive Inference Task
+44. [x] Transitive Inference Task
 45. [ ] Acquired Equivalence
 46. [ ] Delayed Recall Task
 47. [ ] Rey Auditory Verbal Learning Test (RAVLT)

@@ -260,7 +260,7 @@ Categorized by Primary Construct / Domain
 - [ ] Object-Location Memory Task  
 - [ ] Visual Paired Comparison Task  
 - [ ] Mnemonic Similarity Task (Pattern Separation)  
-- [ ] Transitive Inference Task  
+- [x] Transitive Inference Task  
 - [x] Paired-Associate Learning Task  
 - [ ] Serial Reaction Time Task  
 - [ ] Weather Prediction Task  
