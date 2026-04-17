@@ -133,8 +133,8 @@
 - [ ] McGurk Effect  
 
 **Declarative Memory**  
-- [ ] Acquired Equivalence  
-- [ ] Delayed Recall  
+- [x] Acquired Equivalence  
+- [x] Delayed Recall  
 - [ ] Paired-Associate  
 - [ ] Transitive Inference  
 
@@ -265,7 +265,7 @@ Categorized by Primary Construct / Domain
 - [ ] Serial Reaction Time Task  
 - [ ] Weather Prediction Task  
 - [ ] Contextual Fear Conditioning  
-- [ ] Acquired Equivalence  
+- [x] Acquired Equivalence  
 
 
 ### Social Cognition & Moral Decision-Making

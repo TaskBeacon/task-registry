@@ -65,8 +65,8 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 42. [ ] Serial Reaction Time Task
 43. [x] Paired-Associate Learning Task
 44. [x] Transitive Inference Task
-45. [ ] Acquired Equivalence
-46. [ ] Delayed Recall Task
+45. [x] Acquired Equivalence
+46. [x] Delayed Recall Task
 47. [ ] Rey Auditory Verbal Learning Test (RAVLT)
 48. [ ] California Verbal Learning Test (CVLT)
 49. [ ] DRM False Memory Paradigm
