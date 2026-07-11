@@ -38,7 +38,7 @@
 - [x] Posner Spatial Cueing Task (T000061 / H000061)
 - [x] Lexical Decision Task (T000062 / H000062)
 - [x] Navon Global-Local Task (T000063 / H000063)
-- [ ] Sustained Attention to Response Task (SART)
+- [x] Sustained Attention to Response Task (SART) (T000064 / H000064)
 - [ ] Levels-of-Processing Task
 - [ ] Fitts' Law Pointing Task
 - [ ] Directed Forgetting Task

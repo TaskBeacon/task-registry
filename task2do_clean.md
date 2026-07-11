@@ -27,7 +27,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 2. [x] Posner Spatial Cueing Task (T000061 / H000061)
 3. [x] Lexical Decision Task (T000062 / H000062)
 4. [x] Navon Global-Local Task (T000063 / H000063)
-5. [ ] Sustained Attention to Response Task (SART)
+5. [x] Sustained Attention to Response Task (SART) (T000064 / H000064)
 6. [ ] Levels-of-Processing Task
 7. [ ] Fitts' Law Pointing Task
 8. [ ] Directed Forgetting Task
