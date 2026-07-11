@@ -25,7 +25,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 ## Classic Paradigm Expansion Queue
 1. [x] Corsi Block-Tapping Task (T000060 / H000060)
 2. [x] Posner Spatial Cueing Task (T000061 / H000061)
-3. [ ] Lexical Decision Task
+3. [x] Lexical Decision Task (T000062 / H000062)
 4. [ ] Navon Global-Local Task
 5. [ ] Sustained Attention to Response Task (SART)
 6. [ ] Levels-of-Processing Task

@@ -36,7 +36,7 @@
 ## Classic Paradigm Expansion Queue
 - [x] Corsi Block-Tapping Task (T000060 / H000060)
 - [x] Posner Spatial Cueing Task (T000061 / H000061)
-- [ ] Lexical Decision Task
+- [x] Lexical Decision Task (T000062 / H000062)
 - [ ] Navon Global-Local Task
 - [ ] Sustained Attention to Response Task (SART)
 - [ ] Levels-of-Processing Task
