@@ -26,7 +26,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 1. [x] Corsi Block-Tapping Task (T000060 / H000060)
 2. [x] Posner Spatial Cueing Task (T000061 / H000061)
 3. [x] Lexical Decision Task (T000062 / H000062)
-4. [ ] Navon Global-Local Task
+4. [x] Navon Global-Local Task (T000063 / H000063)
 5. [ ] Sustained Attention to Response Task (SART)
 6. [ ] Levels-of-Processing Task
 7. [ ] Fitts' Law Pointing Task

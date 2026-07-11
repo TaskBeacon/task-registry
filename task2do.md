@@ -37,7 +37,7 @@
 - [x] Corsi Block-Tapping Task (T000060 / H000060)
 - [x] Posner Spatial Cueing Task (T000061 / H000061)
 - [x] Lexical Decision Task (T000062 / H000062)
-- [ ] Navon Global-Local Task
+- [x] Navon Global-Local Task (T000063 / H000063)
 - [ ] Sustained Attention to Response Task (SART)
 - [ ] Levels-of-Processing Task
 - [ ] Fitts' Law Pointing Task
