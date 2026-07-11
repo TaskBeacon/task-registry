@@ -102,7 +102,7 @@
 ### Cognitive Systems
 **Attention**  
 - [ ] ANT  
-- [x] Attentional Blink  
+- [x] Attentional Blink (T000058)  
 - [ ] Dichotic Listening  
 - [x] Distraction/Capture  
 - [ ] Dual-task  
@@ -304,7 +304,7 @@ Categorized by Primary Construct / Domain
 
 
 ### Attention, Timing, Sensorimotor
-- [x] Attentional Blink  
+- [x] Attentional Blink (T000058)  
 - [x] Psychomotor Vigilance Task  
 - [ ] Go/No-Go  
 - [ ] Stop-Signal Task (standard & staircase)  
