@@ -33,6 +33,16 @@
 - [ ] Antisaccade Task  
 - [ ] Visual Search  
 
+## Classic Paradigm Expansion Queue
+- [x] Corsi Block-Tapping Task (T000060 / H000060)
+- [ ] Posner Spatial Cueing Task
+- [ ] Lexical Decision Task
+- [ ] Navon Global-Local Task
+- [ ] Sustained Attention to Response Task (SART)
+- [ ] Levels-of-Processing Task
+- [ ] Fitts' Law Pointing Task
+- [ ] Directed Forgetting Task
+
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
 > Some task names, labels, or categorizations may be broad, approximate, or inconsistent across studies.  

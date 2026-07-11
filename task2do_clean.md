@@ -22,6 +22,16 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 - [x] Stroop
 - [x] ANT
 
+## Classic Paradigm Expansion Queue
+1. [x] Corsi Block-Tapping Task (T000060 / H000060)
+2. [ ] Posner Spatial Cueing Task
+3. [ ] Lexical Decision Task
+4. [ ] Navon Global-Local Task
+5. [ ] Sustained Attention to Response Task (SART)
+6. [ ] Levels-of-Processing Task
+7. [ ] Fitts' Law Pointing Task
+8. [ ] Directed Forgetting Task
+
 ## Priority Build Queue (Next)
 1. [x] EEfRT (Effort Expenditure for Rewards)
 2. [x] One-Armed Bandit
