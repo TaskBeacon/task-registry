@@ -50,7 +50,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 27. [ ] Probabilistic Reward Task
 28. [x] Probabilistic Stimulus Selection
 29. removed
-30. [ ] Psychomotor Vigilance- Probabilistic Stimulus Selection
+30. [x] Psychomotor Vigilance Task
 31. [x] Sternberg Working Memory
 32. [x] Fixed-ratio Satiation Schedule
 33. [x] Trier Social Stress Test (TSST)

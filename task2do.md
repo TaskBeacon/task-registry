@@ -204,7 +204,7 @@
 ### Arousal & Regulatory Systems
 
 **Arousal**  
-- [ ] Psychomotor Vigilance  
+- [x] Psychomotor Vigilance  
 - [ ] Heart Rate Variability  
 - [ ] Pupillometry  
 - [ ] Cardiac Pre-Ejection Period  
@@ -305,7 +305,7 @@ Categorized by Primary Construct / Domain
 
 ### Attention, Timing, Sensorimotor
 - [x] Attentional Blink  
-- [ ] Psychomotor Vigilance Task  
+- [x] Psychomotor Vigilance Task  
 - [ ] Go/No-Go  
 - [ ] Stop-Signal Task (standard & staircase)  
 - [ ] Antisaccade Task  
