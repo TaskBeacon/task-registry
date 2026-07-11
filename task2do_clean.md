@@ -62,7 +62,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 39. [x] Raven’s Progressive Matrices
 40. [x] Matrix Reasoning
 41. [ ] Mental Rotation Task
-42. [ ] Serial Reaction Time Task
+42. [x] Serial Reaction Time Task
 43. [x] Paired-Associate Learning Task
 44. [x] Transitive Inference Task
 45. [x] Acquired Equivalence

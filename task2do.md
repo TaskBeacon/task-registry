@@ -262,7 +262,7 @@ Categorized by Primary Construct / Domain
 - [ ] Mnemonic Similarity Task (Pattern Separation)  
 - [x] Transitive Inference Task  
 - [x] Paired-Associate Learning Task  
-- [ ] Serial Reaction Time Task  
+- [x] Serial Reaction Time Task  
 - [ ] Weather Prediction Task  
 - [ ] Contextual Fear Conditioning  
 - [x] Acquired Equivalence  
