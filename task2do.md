@@ -257,7 +257,7 @@ Categorized by Primary Construct / Domain
 - [ ] Rey Auditory Verbal Learning Test (RAVLT)  
 - [ ] California Verbal Learning Test (CVLT)  
 - [ ] DRM False Memory Paradigm  
-- [ ] Object-Location Memory Task  
+- [x] Object-Location Memory Task (T000059)  
 - [ ] Visual Paired Comparison Task  
 - [ ] Mnemonic Similarity Task (Pattern Separation)  
 - [x] Transitive Inference Task  

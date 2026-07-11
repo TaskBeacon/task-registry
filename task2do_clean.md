@@ -70,7 +70,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 47. [ ] Rey Auditory Verbal Learning Test (RAVLT)
 48. [ ] California Verbal Learning Test (CVLT)
 49. [ ] DRM False Memory Paradigm
-50. [ ] Object-Location Memory Task
+50. [x] Object-Location Memory Task (T000059)
 51. [ ] Visual Paired Comparison Task
 52. [ ] Mnemonic Similarity Task (pattern separation)
 53. [ ] Self-Ordered Pointing Task
