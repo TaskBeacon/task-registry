@@ -29,7 +29,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 4. [x] Navon Global-Local Task (T000063 / H000063)
 5. [x] Sustained Attention to Response Task (SART) (T000064 / H000064)
 6. [x] Levels-of-Processing Task - T000065/H000065
-7. [ ] Fitts' Law Pointing Task
+7. [x] Fitts' Law Pointing Task - T000066/H000066
 8. [ ] Directed Forgetting Task
 
 ## Priority Build Queue (Next)

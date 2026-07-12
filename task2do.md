@@ -40,7 +40,7 @@
 - [x] Navon Global-Local Task (T000063 / H000063)
 - [x] Sustained Attention to Response Task (SART) (T000064 / H000064)
 - [x] Levels-of-Processing Task - Completed as T000065/H000065; build, audit, plot, QA/sim, web tests, browser export, and production build pass.
-- [ ] Fitts' Law Pointing Task
+- [x] Fitts' Law Pointing Task - Completed as T000066/H000066; build, audit, plot, pointer QA/sim, web tests, browser export, and production build pass.
 - [ ] Directed Forgetting Task
 
 
