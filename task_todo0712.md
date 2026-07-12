@@ -6,7 +6,7 @@
 1. [x] Visual Change Detection Task - completed `T000068` / `H000068`
 2. [x] Automated Operation Span Task (OSPAN) - completed `T000069` / `H000069`
 3. [x] Psychological Refractory Period Task (PRP) - completed `T000070` / `H000070`
-4. [ ] Multiple Object Tracking Task (MOT) - provisional `T000071` / `H000071`
+4. [x] Multiple Object Tracking Task (MOT) - completed `T000071` / `H000071`
 5. [ ] Semantic Priming Task - provisional `T000072` / `H000072`
 6. [ ] Gaze Cueing Task - provisional `T000073` / `H000073`
 7. [ ] Tower of London Task - provisional `T000074` / `H000074`
