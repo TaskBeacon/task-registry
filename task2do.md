@@ -41,7 +41,7 @@
 - [x] Sustained Attention to Response Task (SART) (T000064 / H000064)
 - [x] Levels-of-Processing Task - Completed as T000065/H000065; build, audit, plot, QA/sim, web tests, browser export, and production build pass.
 - [x] Fitts' Law Pointing Task - Completed as T000066/H000066; build, audit, plot, pointer QA/sim, web tests, browser export, and production build pass.
-- [ ] Directed Forgetting Task
+- [x] Directed Forgetting Task - Completed as T000067/H000067; build, audit, plot, QA/sim, web tests, browser export, and production build pass.
 
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  

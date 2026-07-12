@@ -30,7 +30,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 5. [x] Sustained Attention to Response Task (SART) (T000064 / H000064)
 6. [x] Levels-of-Processing Task - T000065/H000065
 7. [x] Fitts' Law Pointing Task - T000066/H000066
-8. [ ] Directed Forgetting Task
+8. [x] Directed Forgetting Task - T000067/H000067
 
 ## Priority Build Queue (Next)
 1. [x] EEfRT (Effort Expenditure for Rewards)
