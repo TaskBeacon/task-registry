@@ -9,5 +9,5 @@
 4. [x] Multiple Object Tracking Task (MOT) - completed `T000071` / `H000071`
 5. [x] Semantic Priming Task - completed `T000072` / `H000072`
 6. [x] Gaze Cueing Task - completed `T000073` / `H000073`
-7. [ ] Tower of London Task - provisional `T000074` / `H000074`
+7. [x] Tower of London Task - completed `T000074` / `H000074`
 8. [ ] Two-Step Sequential Decision Task - provisional `T000075` / `H000075`
