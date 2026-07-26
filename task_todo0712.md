@@ -10,4 +10,4 @@
 5. [x] Semantic Priming Task - completed `T000072` / `H000072`
 6. [x] Gaze Cueing Task - completed `T000073` / `H000073`
 7. [x] Tower of London Task - completed `T000074` / `H000074`
-8. [ ] Two-Step Sequential Decision Task - provisional `T000075` / `H000075`
+8. [x] Two-Step Sequential Decision Task - completed `T000075` / `H000075`
