@@ -42,6 +42,7 @@
 - [x] Levels-of-Processing Task - Completed as T000065/H000065; build, audit, plot, QA/sim, web tests, browser export, and production build pass.
 - [x] Fitts' Law Pointing Task - Completed as T000066/H000066; build, audit, plot, pointer QA/sim, web tests, browser export, and production build pass.
 - [x] Directed Forgetting Task - Completed as T000067/H000067; build, audit, plot, QA/sim, web tests, browser export, and production build pass.
+- [x] SNARC and Numerical Distance Task - Completed as T000083/H000083; literature audit, balanced generators, task-flow review, QA/sim gates, web-port checks, browser visual QA, and production build pass.
 
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
