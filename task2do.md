@@ -49,6 +49,7 @@
 - [x] Judgment of Learning - Completed as T000102/H000102; three-paper literature and logic audit, immediate/delayed cue-only JOL implementation, first-round task-flow review, QA/simulation gates, Web TAPS/type/unit checks, browser hit/miss/timeout/export QA, and production build pass.
 - [x] Approximate Number System - Completed as T000096/H000096; three-paper literature and logic audit, balanced 100-trial intermixed-dot implementation, seven-round task-flow review, QA/simulation gates, Web TAPS/type/geometry checks, browser correct/incorrect/timeout/export QA, and production build pass.
 - [x] Luchins Water-Jar / Einstellung Task - Completed as T000109/H000109; protocol-source audit, novel algebraically verified 11-problem series, two-round task-flow review, QA/simulation gates, Web TAPS/type/unit checks, complete browser sequence/classification/export QA, and production build pass.
+- [x] Reicher-Wheeler Word Superiority Task - Completed as T000104/H000104; four-source literature audit, balanced word/pseudoword/illegal-string/isolated-letter implementation, three-round task-flow review, QA/simulation gates, Web TAPS/type/helper checks, browser correct/incorrect/export QA, and production build pass.
 
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
