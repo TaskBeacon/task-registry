@@ -19,3 +19,4 @@
 27. [x] Binocular Rivalry - completed `T000103` / `H000103`
 28. [x] Approximate Number System - completed `T000096` / `H000096`
 29. [x] Luchins Water-Jar / Einstellung Task - completed `T000109` / `H000109`
+30. [x] False-Belief / Unexpected Transfer Task - completed `T000106` / `H000106`
