@@ -45,6 +45,7 @@
 - [x] SNARC and Numerical Distance Task - Completed as T000083/H000083; literature audit, balanced generators, task-flow review, QA/sim gates, web-port checks, browser visual QA, and production build pass.
 - [x] Retrieval-Induced Forgetting - Completed as T000090/H000090; three-paper literature audit, balanced Rp+/Rp-/Nrp four-phase implementation, two-round task-flow review, QA/simulation gates, Web TAPS and port checks, Chinese typed hit/miss/export browser QA, and production build pass.
 - [x] Verbal Fluency - Completed as T000091/H000091; three-paper threshold literature bundle plus Mandarin protocol audit, five-cue implementation, four-round task-flow review, QA/simulation gates, Web TAPS and repeated-response checks, browser export QA, and production build pass.
+- [x] Mirror Tracing - Completed as T000101/H000101; four-paper literature and logic audit, continuous six-point-star mirror-feedback implementation, two-round task-flow review, QA/simulation gates, forward-progress shortcut regression checks, Web TAPS/type/unit/E2E checks, browser complete/error/timeout/export QA, and production build pass.
 
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
