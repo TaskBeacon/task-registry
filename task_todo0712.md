@@ -20,3 +20,4 @@
 28. [x] Approximate Number System - completed `T000096` / `H000096`
 29. [x] Luchins Water-Jar / Einstellung Task - completed `T000109` / `H000109`
 30. [x] False-Belief / Unexpected Transfer Task - completed `T000106` / `H000106`
+31. [x] Misinformation Effect Task - completed `T000100` / `H000100`
