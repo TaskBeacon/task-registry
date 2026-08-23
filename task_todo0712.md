@@ -21,3 +21,4 @@
 29. [x] Luchins Water-Jar / Einstellung Task - completed `T000109` / `H000109`
 30. [x] False-Belief / Unexpected Transfer Task - completed `T000106` / `H000106`
 31. [x] Misinformation Effect Task - completed `T000100` / `H000100`
+32. [x] Heider–Simmel Social Attribution Task - completed `T000107` / `H000107`

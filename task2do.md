@@ -50,6 +50,7 @@
 - [x] Approximate Number System - Completed as T000096/H000096; three-paper literature and logic audit, balanced 100-trial intermixed-dot implementation, seven-round task-flow review, QA/simulation gates, Web TAPS/type/geometry checks, browser correct/incorrect/timeout/export QA, and production build pass.
 - [x] Luchins Water-Jar / Einstellung Task - Completed as T000109/H000109; protocol-source audit, novel algebraically verified 11-problem series, two-round task-flow review, QA/simulation gates, Web TAPS/type/unit checks, complete browser sequence/classification/export QA, and production build pass.
 - [x] Reicher-Wheeler Word Superiority Task - Completed as T000104/H000104; four-source literature audit, balanced word/pseudoword/illegal-string/isolated-letter implementation, three-round task-flow review, QA/simulation gates, Web TAPS/type/helper checks, browser correct/incorrect/export QA, and production build pass.
+- [x] Heider–Simmel Social Attribution Task - Completed as T000107/H000107; primary-protocol and classic-source audit, six original social/mechanical/random animations, two-round task-flow review, QA/simulation gates, Web TAPS/type checks, six-condition browser replay/narrative/scoring/export QA, and production asset build pass.
 
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
@@ -287,6 +288,7 @@ Categorized by Primary Construct / Domain
 
 
 ### Social Cognition & Moral Decision-Making
+- [x] Heider–Simmel Social Attribution Task (T000107 / H000107)
 - [ ] Ultimatum Game  
 - [ ] Trust Game  
 - [ ] Dictator Game  

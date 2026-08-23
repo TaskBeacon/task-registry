@@ -38,6 +38,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 28. [x] Approximate Number System - T000096/H000096
 29. [x] Luchins Water-Jar / Einstellung Task - T000109/H000109
 30. [x] Reicher-Wheeler Word Superiority Task - T000104/H000104
+31. [x] Heider–Simmel Social Attribution Task - T000107/H000107
 
 ## Priority Build Queue (Next)
 1. [x] EEfRT (Effort Expenditure for Rewards)
