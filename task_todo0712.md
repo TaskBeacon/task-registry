@@ -14,3 +14,4 @@
 13. [x] SNARC and Numerical Distance Task - completed `T000083` / `H000083`
 18. [x] Dichotic Listening - completed `T000080` / `H000080`
 23. [x] Retrieval-Induced Forgetting - completed `T000090` / `H000090`
+24. [x] Verbal Fluency - completed `T000091` / `H000091`

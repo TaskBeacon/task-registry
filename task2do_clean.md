@@ -33,6 +33,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 8. [x] Directed Forgetting Task - T000067/H000067
 12. [x] SNARC and Numerical Distance Task - T000083/H000083
 21. [x] Retrieval-Induced Forgetting - T000090/H000090
+22. [x] Verbal Fluency - T000091/H000091
 
 ## Priority Build Queue (Next)
 1. [x] EEfRT (Effort Expenditure for Rewards)

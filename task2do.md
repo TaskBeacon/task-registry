@@ -44,6 +44,7 @@
 - [x] Directed Forgetting Task - Completed as T000067/H000067; build, audit, plot, QA/sim, web tests, browser export, and production build pass.
 - [x] SNARC and Numerical Distance Task - Completed as T000083/H000083; literature audit, balanced generators, task-flow review, QA/sim gates, web-port checks, browser visual QA, and production build pass.
 - [x] Retrieval-Induced Forgetting - Completed as T000090/H000090; three-paper literature audit, balanced Rp+/Rp-/Nrp four-phase implementation, two-round task-flow review, QA/simulation gates, Web TAPS and port checks, Chinese typed hit/miss/export browser QA, and production build pass.
+- [x] Verbal Fluency - Completed as T000091/H000091; three-paper threshold literature bundle plus Mandarin protocol audit, five-cue implementation, four-round task-flow review, QA/simulation gates, Web TAPS and repeated-response checks, browser export QA, and production build pass.
 
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
@@ -256,7 +257,7 @@ Categorized by Primary Construct / Domain
 - [x] Raven's Progressive Matrices  
 - [x] Matrix Reasoning  
 - [ ] Mental Rotation Task  
-- [ ] Category Fluency / Verbal Fluency  
+- [x] Category Fluency / Verbal Fluency (T000091 / H000091)  
 - [ ] Naming Task  
 - [ ] Sentence Comprehension Task  
 - [ ] Semantic Association or Relation Detection  
