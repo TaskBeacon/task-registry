@@ -13,3 +13,4 @@
 8. [x] Two-Step Sequential Decision Task - completed `T000075` / `H000075`
 13. [x] SNARC and Numerical Distance Task - completed `T000083` / `H000083`
 18. [x] Dichotic Listening - completed `T000080` / `H000080`
+23. [x] Retrieval-Induced Forgetting - completed `T000090` / `H000090`

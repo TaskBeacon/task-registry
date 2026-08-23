@@ -43,6 +43,7 @@
 - [x] Fitts' Law Pointing Task - Completed as T000066/H000066; build, audit, plot, pointer QA/sim, web tests, browser export, and production build pass.
 - [x] Directed Forgetting Task - Completed as T000067/H000067; build, audit, plot, QA/sim, web tests, browser export, and production build pass.
 - [x] SNARC and Numerical Distance Task - Completed as T000083/H000083; literature audit, balanced generators, task-flow review, QA/sim gates, web-port checks, browser visual QA, and production build pass.
+- [x] Retrieval-Induced Forgetting - Completed as T000090/H000090; three-paper literature audit, balanced Rp+/Rp-/Nrp four-phase implementation, two-round task-flow review, QA/simulation gates, Web TAPS and port checks, Chinese typed hit/miss/export browser QA, and production build pass.
 
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
