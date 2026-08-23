@@ -35,6 +35,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 21. [x] Retrieval-Induced Forgetting - T000090/H000090
 22. [x] Verbal Fluency - T000091/H000091
 26. [x] Judgment of Learning - T000102/H000102
+28. [x] Approximate Number System - T000096/H000096
 
 ## Priority Build Queue (Next)
 1. [x] EEfRT (Effort Expenditure for Rewards)
