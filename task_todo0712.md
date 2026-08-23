@@ -18,3 +18,4 @@
 26. [x] Judgment of Learning - completed `T000102` / `H000102`
 27. [x] Binocular Rivalry - completed `T000103` / `H000103`
 28. [x] Approximate Number System - completed `T000096` / `H000096`
+29. [x] Luchins Water-Jar / Einstellung Task - completed `T000109` / `H000109`
