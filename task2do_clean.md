@@ -39,6 +39,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 29. [x] Luchins Water-Jar / Einstellung Task - T000109/H000109
 30. [x] Reicher-Wheeler Word Superiority Task - T000104/H000104
 31. [x] Heider–Simmel Social Attribution Task - T000107/H000107
+32. [x] Method-of-Loci Context Binding Task (suggestion 000119) - T000118/H000118
 
 ## Priority Build Queue (Next)
 1. [x] EEfRT (Effort Expenditure for Rewards)

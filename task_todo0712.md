@@ -22,3 +22,4 @@
 30. [x] False-Belief / Unexpected Transfer Task - completed `T000106` / `H000106`
 31. [x] Misinformation Effect Task - completed `T000100` / `H000100`
 32. [x] Heider–Simmel Social Attribution Task - completed `T000107` / `H000107`
+33. [x] Method-of-Loci Context Binding Task (suggestion 000119) - completed `T000118` / `H000118`
