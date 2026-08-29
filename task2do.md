@@ -361,3 +361,4 @@ https://www.millisecond.com/download/library/categories/
 ### Recent Literature Implementations
 
 - [x] Public Goods Game with Punishment (suggestion 000122) — completed `T000122` / `H000122`
+- [x] Triangle Completion / Path Integration Task (suggestion 000121) — completed `T000121` / `H000121`

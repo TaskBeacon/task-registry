@@ -101,6 +101,7 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 ## Recent Literature Implementations
 
 - [x] Public Goods Game with Punishment (suggestion 000122) — completed `T000122` / `H000122`
+- [x] Triangle Completion / Path Integration Task (suggestion 000121) — completed `T000121` / `H000121`
 
 ## Notes
 - Priority queue items are built one at a time using the `task-build` workflow:
