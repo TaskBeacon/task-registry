@@ -25,3 +25,4 @@
 33. [x] Heider–Simmel Social Attribution Task - completed `T000107` / `H000107`
 34. [x] Method-of-Loci Context Binding Task (suggestion 000119) - completed `T000118` / `H000118`
 35. [x] Feature-Rich Episodic Decision Task (suggestion 000113) - completed `T000113` / `H000113`
+36. [x] Public Goods Game with Punishment (suggestion 000122) - completed `T000122` / `H000122`

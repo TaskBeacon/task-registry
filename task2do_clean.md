@@ -98,6 +98,10 @@ This file tracks task implementation status for the PsyFlow/TAPS task library.
 54. [ ] Letter–Number Sequencing
 55. [ ] Keep-Track Task
 
+## Recent Literature Implementations
+
+- [x] Public Goods Game with Punishment (suggestion 000122) — completed `T000122` / `H000122`
+
 ## Notes
 - Priority queue items are built one at a time using the `task-build` workflow:
   literature -> references bundle -> implementation -> validate/qa/sim -> publish.

@@ -357,3 +357,7 @@ Categorized by Primary Construct / Domain
 inquisit probably provides the most comprehensive set of tasks:
 
 https://www.millisecond.com/download/library/categories/
+
+### Recent Literature Implementations
+
+- [x] Public Goods Game with Punishment (suggestion 000122) — completed `T000122` / `H000122`
