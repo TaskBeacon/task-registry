@@ -23,3 +23,4 @@
 31. [x] Misinformation Effect Task - completed `T000100` / `H000100`
 32. [x] Heider–Simmel Social Attribution Task - completed `T000107` / `H000107`
 33. [x] Method-of-Loci Context Binding Task (suggestion 000119) - completed `T000118` / `H000118`
+34. [x] Feature-Rich Episodic Decision Task (suggestion 000113) - completed `T000113` / `H000113`

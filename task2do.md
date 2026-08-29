@@ -52,6 +52,7 @@
 - [x] Reicher-Wheeler Word Superiority Task - Completed as T000104/H000104; four-source literature audit, balanced word/pseudoword/illegal-string/isolated-letter implementation, three-round task-flow review, QA/simulation gates, Web TAPS/type/helper checks, browser correct/incorrect/export QA, and production build pass.
 - [x] Heider–Simmel Social Attribution Task - Completed as T000107/H000107; primary-protocol and classic-source audit, six original social/mechanical/random animations, two-round task-flow review, QA/simulation gates, Web TAPS/type checks, six-condition browser replay/narrative/scoring/export QA, and production asset build pass.
 - [x] Method-of-Loci Context Binding Task (suggestion 000119) - Completed as T000118/H000118; Nature Communications protocol and released-material audit, participant-editable 20-locus route, source-aligned 20-word encoding/retrieval implementation, first-round task-flow review, QA/scripted/sampler simulation gates, Web TAPS/type/unit checks, edited-locus hit/intrusion/export browser QA, and shared production build pass.
+- [x] Feature-Rich Episodic Decision Task (suggestion 000113) - Completed as T000113/H000113; Nature Human Behaviour protocol and released-material audit, constrained five-round 16-item feature/reward planner, first-round task-flow review, QA/scripted/sampler simulation gates, Web TAPS/type/compile checks, production asset repair, hit/error/export-panel browser QA, and isolated shared production build pass.
 
 
 > **Disclaimer**: This is not an exhaustive or definitive list.  
